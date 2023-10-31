@@ -1,33 +1,49 @@
-URL https://www.reuters.com/article/us-utc-m-a-chubb/united-technologies-explores-sale-of-chubb-fire-security-sources-idUSKCN1M424N
+URL https://www.reuters.com/article/us-britain-floods-barrier/as-climate-risks-surge-flood-barriers-rise-in-britain-idUSKCN1LM26H
 
-DATE/ AUTHOR 2018-09-24 17:57:21+00:00	AUTHORS: Harry Brumpton, Min Read
+DATE/ AUTHOR 2018-09-06 14:58:41+00:00	AUTHORS: Claudio Accheri, Min Read
 
-H United Technologies explores sale of Chubb Fire & Security: sources
+H As climate risks surge, flood barriers rise in Britain
 
-S1 (Reuters) - United Technologies Corp (UTX.N) is exploring a sale of its Chubb Fire & Security division for more than $3 billion, people familiar with the matter said on Monday.
+S1 LONDON (Thomson Reuters Foundation) - Four decades ago, when storms blew in the North Sea and sent high tides surging toward London, sirens sounded in the city.
 
-S2 FILE PHOTO - United Technologies Chairman and CEO Greg Hayes gives an interview to CNBC on the floor of the New York Stock Exchange (NYSE) in New York, U.S., September 5, 2017.
-S3 REUTERS/Brendan McDermid
+S2 A map of the Tidal Barrier in Ipswich, United Kingdom, on April 10, 2018.
+S3 Thomson Reuters Foundation/Claudio Accheri
 
-S4 On Sept. 14, United Technologies CEO Greg Hayes said the company will announce a decision within 60 days about whether to break up.
-S5 The company’s main business lines are comprised of aerospace engines, elevators and building equipment such as air conditioners.
+S4 “People were told not to work or sleep in basements.
+S5 They used to move buses to higher ground.
+S6 All these contingency plans had to be in place,” remembers Steve East, an engineering manager for the British Environment Agency.
 
-S6 Chubb was acquired by United Technologies for about $1 billion in 2003, and is now part of the company’s climate, controls and security division.
-S7 It has been playing catch-up for market share with rivals Securitas AB (SECUb.ST) and Tyco International Ltd. Tyco was acquired by Johnson Controls International Plc (JCI.N) two years ago for $16.5 billion.
+S7 But since 1982, when the Thames Barrier - London’s pioneering flood protection wall - came into use, central Londoners have scarcely had to think about flood risks.
 
-S8 United Technologies, based in Farmington, Connecticut, has hired Bank of America Corp (BAC.N) to run an auction for Chubb, the sources said, asking not to be identified because the matter is confidential and cautioning that no deal is certain.
+S8 “Today if London is threatened by a tidal surge, we stop the surge here and London carries on with its normal day-to-day business,” said East, the engineering manager for the barrier, which spans the Thames in Woolwich in southeast London.
 
-S9 United Technologies did not respond to a request for comment, while Bank of America declined to comment.
+S9 As climate change brings more extreme rainfall, higher tides and stronger storms, flood risks are rising across Britain - and flood protection barriers are rising as well.
 
-S10 United Technologies, maker of Pratt & Whitney engines, Carrier air conditioners and Otis elevators, has a market capitalization of approximately $113 billion.
-S11 Chubb, headquartered in Britain, provides fire safety and security solutions for businesses and organizations around the world, although its business is predominantly in Europe.
+S10 Ipswich in eastern England will put into operation its first tidal barrier this winter, part of a 66-million-pound ($86-million) flood protection system designed to defend the town against growing threats, officials there say.
 
-S12 Hayes said at an investor conference this month that United Technologies planned to close its pending $23 billion acquisition of aerospace parts maker Rockwell Collins COL.N by the end of this month.
-S13 That deal has been held up by China delaying regulatory approval, amid an escalating trade row with the United States.
+S11 Other British towns, including the east coast port of Boston, are planning barriers of their own, said Andrew Usborne, the project manager for the Ipswich barrier, on the River Orwell.
 
-S14 Investors have increasingly shunned sprawling industrial conglomerates, forcing peers such as General Electric Co (GE.N) and Honeywell International Inc (HON.N) to also announce the sale or spinout of major divisions.
+S12 The moveable barriers - which retract into the riverbed floor when not in use and are raised only when needed - are being built not just because of rising risks but because they increasingly make financial sense, Usborne said.
 
-S15 Activist investor Bill Ackman’s hedge fund Pershing Square Capital Management LP and Daniel Loeb’s hedge fund Third Point LLC have been putting pressure on United Technologies to break up into three focused, standalone businesses.
+S13 In Ipswich, “this was the cheapest and preferred option,” he said.
 
-S16 (This version of the story corrects year of Chubb acquisition from 2013 to 2003 in third paragraph)
+S14 Walls built along the waterfront, long used to protect the city, now need to be raised to meet growing risks “but nobody’s ever going to accept a meter of wall all through the center of town”, he said.
+
+S15 The new barrier, which sits on piles driven 60m (66 yards) into the chalky soil, will protect about 1,200 homes and more than 400 businesses from the kind of storm expected to hit every 300 years, he said - and rising climate change risks have been taken into account.
+
+S16 Across Britain, “where it is financially and technically appropriate, like here, we will have barriers,” he predicted.
+
+S17 London’s Thames Barrier - a 520m span of steel gates, piers and abutments that looks as if it might have been inspired by the Sydney Opera House - has now been used more than 180 times to protect central London from tidal floods, East said.
+
+S18 The rate of use has been increasing - at one point, it was closed on 24 consecutive tides - but that increasing crescendo of closures “was always expected,” the engineer said.
+
+S19 The structure was designed to last until 2030 - but assessments suggest it will now last until 2070, when a new barrier will need to be put in place, he said.
+
+S20 Slideshow (4 Images)
+
+S21 For now, however, the barrier remains an effective bulwark, keeping 1.25 million Londoners - and 300 billion pounds worth of infrastructure - above the rising tide, officials say.
+
+S22 “Until the 1920s, people actually died in floods in central London - and the real catalyst for the Thames Barrier and the rest of the tidal defense system was the floods of 1953, where over 350 people died,” East said.
+
+S23 “That was a wake-up call to the government that they had to come up with a solution,” he said.
 

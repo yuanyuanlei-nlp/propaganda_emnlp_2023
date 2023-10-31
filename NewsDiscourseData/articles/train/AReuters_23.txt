@@ -1,37 +1,61 @@
-URL https://www.reuters.com/article/us-slovakia-crime/slovak-prosecutor-may-charge-more-people-over-journalists-murder-idUSKCN1MB27I
+URL https://www.reuters.com/article/us-india-floods/worst-floods-in-a-century-kill-scores-in-indias-kerala-idUSKBN1L20NT
 
-DATE/ AUTHOR 2018-10-01 13:00:11+00:00	AUTHORS: Tatiana Jancarikova, Min Read
+DATE/ AUTHOR 2018-08-17 23:04:04+00:00	AUTHORS: Sivaram Venkitasubramanian, Min Read
 
-H Slovak prosecutor may charge more people over journalist's murder
+H Worst floods in a century kill scores in India's Kerala
 
-S1 BRATISLAVA (Reuters) - More people may face charges for the murder of a Slovak investigative journalist, the country’s top prosecutor said on Monday, after police made their first arrests for the killing that rattled the nation and toppled its government.
+S1 KOCHI/BENGALURU, India (Reuters) - The worst floods in a century in the Indian state of Kerala have killed 164 people and forced more than 200,000 into relief camps, officials said on Friday, with the toll expected to rise as heavy rain pushes water levels higher still.
 
-S2 FILE PHOTO: Demonstrators attend a protest called "Let's stand for decency in Slovakia" in reaction to the murder of Slovak investigative reporter Jan Kuciak and his fiancee Martina Kusnirova, in Bratislava, Slovakia March 9, 2018.
-S3 REUTERS/Radovan Stoklasa/File Photo
+S2 As the southwestern coastal state’s chief minister sought military reinforcements to boost rescue efforts, a disaster management official said that, since the monsoon season started about three months ago, more than 320 people had died due to flooding and landslides.
 
-S4 The killing of Jan Kuciak, 27, and his fiancée at their home outside the capital Bratislava in February stoked public anger over corruption and prompted the largest protests in Slovakia since the end of Communist rule in 1989.
+S3 As the waters have risen, many people have found it increasingly hard to access food and other basic amenities, or to reach safety.
 
-S5 Kuciak probed fraud involving businessmen with Slovak political ties and had worked on a story about suspected Mafia links of Italians working in Slovakia.
+S4 “In some areas, airlifting is the only option... thousands are still marooned,” Chief Minister Pinarayi Vijayan said.
 
-S6 Police carried out raids last week and a court on Sunday ordered four people jailed until trial for the murders.
+S5 Vijayan said he was hoping the military could step up its support for rescuers already using dozens of helicopters and hundreds of boats.
 
-S7 “We have more steps prepared which we want to take, so there is high probability there will be more charges,” Slovak general prosecutor Jaromir Ciznar told a news conference.
+S6 “I spoke to the defense minister this morning and asked for more helicopters,” he told a news conference in the state capital, Thiruvananthapuram, adding that he planned to send 11 more helicopters to the worst-hit areas.
 
-S8 “We’re still in the stage where charges have been pressed and we should not be too optimistic but the evidence is very strong,” he added.
+S7 During the current monsoon, Kerala has been hit with over a third more rain than average, according to India’s weather office.
+S8 Vijayan said the floods were the worst in a century.
 
-S9 Prosecutors said the killer was paid 70,000 euros, of which 50,000 euros was cash and the rest forgiven debt.
+S9 In the latest bout that began nine days ago, 164 people have died and some 223,000 moved into more than 1,500 relief camps, Vijayan said.
 
-S10 Police arrested a woman on Friday identified as A.Z.
-S11 and said she had likely paid the money to the killers but the motive and whether she worked for someone else was unclear.
+S10 Further heavy rainfall has been forecast for most parts of the state on Saturday, and authorities said they planned to implement controlled releases of water from dams to manage flows and minimize damage.
 
-S12 A police investigator told a briefing that weapons, cars, a cell phone used during the crime, and a bullet corresponding to the cartridge case found at the crime scene were seized in home searches last week.
+S11 Rains are expected to subside to “light to moderate” levels on Sunday, India’s weather office said.
 
-S13 Police chief Milan Lucansky said the suspected killer was a former police officer.
+S12 GRAPHIC - Map: tmsnrt.rs/2OKhKNt
 
-S14 In his final story, published posthumously, Kuciak reported on an Italian living in Slovakia with past business links to two Slovaks who later worked in then-prime minister Robert Fico’s office.
+S13 People wait for aid on the roof of their house at a flooded area in the southern state of Kerala, India, August 17, 2018.
+S14 REUTERS/Sivaram V
 
-S15 Both of the Slovaks resigned but deny connections to the murder.
-S16 Their Italian former business partner has also denied connections with the mafia and the murder but was detained on a European drug trafficking warrant in March and extradited to Italy in May.
+S15 STRANDED AND DESPERATE
 
-S17 Weeks of protests that drew tens of thousands in March forced the departure of long-serving leader Fico as well as the interior minister and police chief but the coalition government remains in power.
+S16 A Reuters witness in a relief helicopter in Chengannur, a town in southern Kerala, saw people stranded on roof tops and waving desperately for help.
+
+S17 “The town looked like an island dotted with houses and cars submerged in muddy flood waters and downed coconut trees,” he said.
+
+S18 Two circling navy helicopters dropped food and water in metal baskets and airlifted out at least four people, including a three-year-old child.
+
+S19 Anil Vasudevan, the head of the Kerala health disaster response wing, said his department had geared up to meet victims’ needs.
+
+S20 “We’ve deployed adequate doctors and staff and provided all essential medicines in the relief camps,” he said.
+
+S21 His teams were also making arrangements to minimize the risk of people contracting water-borne diseases once they return home after the floodwaters subside.
+
+S22 The rains have also disrupted transport networks in Kerala, a major destination for domestic and foreign tourists.
+
+S23 The flooded airport in the main commercial city Kochi has suspended operations until Aug. 26, and rail and road traffic has been interrupted in many places.
+
+S24 “Water levels continue to overflow on tracks and surpassing the danger level of bridges at different places,” Southern Railway said in a statement, adding it had canceled more than a dozen trains.
+
+S25 Some crops have also been inundated.
+S26 The state is a major producer of rubber, tea, coffee and spices such as black pepper and cardamom.
+
+S27 Slideshow (9 Images)
+
+S28 Prime Minister Narendra Modi said on Twitter he would travel to Kerala “to take stock of the unfortunate situation”.
+
+S29 GRAPHIC - Kerala underwater : tmsnrt.rs/2L0MiIw
 
