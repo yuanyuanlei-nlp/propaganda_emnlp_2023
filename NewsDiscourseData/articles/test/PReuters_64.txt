@@ -1,40 +1,90 @@
-URL https://www.reuters.com/article/us-usa-crime-skakel/kennedy-cousins-murder-conviction-overturned-new-trial-ordered-idUSKBN1I52G3
+URL https://www.reuters.com/article/us-usa-russia-summit-trump/trump-seeking-to-calm-political-storm-over-putin-summit-says-he-misspoke-idUSKBN1K72FL
 
-DATE/ AUTHOR 2018-05-04 21:52:43+00:00	AUTHORS: Reuters Editorial, Min Read
+DATE/ AUTHOR 2018-07-18 14:03:24+00:00	AUTHORS: Roberta Rampton, Min Read
 
-H Kennedy cousin's murder conviction overturned, new trial ordered
+H Trump, seeking to calm political storm over Putin summit, says he misspoke
 
-S1 (Reuters) - A divided Connecticut Supreme Court on Friday threw out the 2002 murder conviction of Michael Skakel, a member of the Kennedy family, and ordered a new trial.
+S1 WASHINGTON (Reuters) - U.S. President Donald Trump tried on Tuesday to calm a storm over his failure to hold Russian President Vladimir Putin accountable for meddling in the 2016 U.S. election, saying he misspoke in a joint news conference in Helsinki.
 
-S2 FILE PHOTO: Michael Skakel reacts to being granted bail during his hearing at Stamford Superior Court, in Stamford, Connecticut November 21, 2013.
-S3 REUTERS/Bob Luckey/Pool
+S2 Trump stunned the world on Monday by shying away from criticizing the Russian leader for Moscow’s actions to undermine the election and cast doubt on U.S. intelligence agencies, prompting calls by some U.S. lawmakers for tougher sanctions and other actions to punish Russia.
 
-S4 The 4-3 decision upheld a lower court judge’s 2013 ruling that Skakel’s lawyer did not provide an adequate defense, necessitating a new trial on charges that he killed his neighbor Martha Moxley at her Greenwich home in 1975.
+S3 “I said the word ‘would’ instead of ‘wouldn’t,’” Trump told reporters at the White House, more than 24 hours after his appearance with Putin.
+S4 “The sentence should have been, ‘I don’t see any reason why it wouldn’t be Russia.’”
 
-S5 Justice Richard Palmer, writing for the majority, said the trial lawyer had failed to present the jury with testimony from a witness who could have provided an alibi for Skakel.
+S5 A Reuters/Ipsos poll conducted after his news conference with Putin found that 55 percent of registered U.S. voters disapproved of his handling of relations with Russia, while 37 percent approved.
 
-S6 Palmer said the prosecutors’ case was “far from strong,” and the outcome might have been different with the alibi testimony.
+S6 Trump, who had the opportunity to publicly rebuke Putin during the news conference in Helsinki, instead praised the Russian leader for his “strong and powerful” denial of the conclusions of U.S. intelligence agencies that the Russian state meddled in the election.
 
-S7 “This has been a long road for Michael, and we are grateful to the court for its ruling today,” said Hubert Santos, Skakel’s lawyer in the appeal.
+S7 Standing alongside Putin in Helsinki, Trump told reporters he was not convinced it was Moscow.
+S8 “I don’t see any reason why it would be,” Trump said.
 
-S8 Skakel, a cousin of Robert F. Kennedy Jr. and nephew of Ethel Kennedy, the widow of U.S.
-S9 Senator Robert F. Kennedy, was sentenced to 20 years in prison before he was freed on bail when state Superior Court Judge Thomas Bishop ruled that his attorney had failed to provide an effective trial defense.
+S9 Although he faced pressure from critics, allied countries and even his own staff to take a tough line, Trump said not a single disparaging word in public about Moscow on any of the issues that have brought relations between the two nuclear powers to the lowest ebb since the Cold War.
 
-S10 In 2016, the Connecticut Supreme Court rejected Bishop’s conclusion and reinstated Skakel’s conviction, prompting Santos to ask the court to reconsider its decision.
+S10 Republicans and Democrats accused him of siding with an adversary rather than his own country.
 
-S11 Since the 2016 ruling, one justice in the majority retired and was replaced by another justice, who voted in favor of ordering a new trial, thus flipping the court’s decision.
+S11 Despite a televised interview and numerous postings to Twitter, Trump did not correct himself until 27 hours later.
+S12 Reading mainly from a prepared statement, Trump said on Tuesday he had complete faith in U.S. intelligence agencies and accepted their conclusions.
 
-S12 In a dissenting opinion, Justice Carmen Espinosa said Skakel’s decision to file a motion for reconsideration after a justice’s retirement amounted to “judge shopping.”
+S13 He then veered from his script to hedge on who was responsible for the election interference: “It could be other people also.
+S14 There’s a lot of people out there.”
 
-S13 A spokesman for the Connecticut chief state’s attorney’s office, which argued against Skakel’s appeal in court, said the office was reviewing the decision.
+S15 Related Coverage Germany on Helsinki summit: Dialogue is best way to solve problems
 
-S14 The case drew enormous media attention, both because of the connection to the Kennedys and because the murder took place in Greenwich, one of New York City’s toniest suburbs.
+S16 His backtracking failed to quell the controversy.
+S17 Democrats dismissed Trump’s statement as political damage control.
 
-S15 Moxley was found bludgeoned to death with a golf club, later traced to a set owned by Skakel’s mother, when she and Skakel were both 15 years old.
+S18 “This has to be recognized for what it is, which is simply an effort to clean up the mess he made yesterday, which is beyond the capacity of any short statement to repair,” said Adam Schiff, the senior Democrat on the House of Representatives Intelligence Committee.
 
-S16 The case was unsolved for more than 20 years.
-S17 In 1998, former Los Angeles police detective Mark Fuhrman, known for his role in the O.J.
-S18 Simpson murder case, wrote a book implicating Skakel.
+S19 Senate Democratic leader Chuck Schumer said Trump’s comments on Tuesday were another sign of weakness, particularly his statement that it “could be other people” responsible for the election meddling.
 
-S19 A grand jury was convened that year, and Skakel was charged in 2000.
+S20 “He made a horrible statement, tried to back off, but couldn’t even bring himself to back off,” Schumer said on the Senate floor.
+S21 “It shows the weakness of President Trump that he is afraid to confront Mr. Putin directly.”
+
+S22 The political firestorm over Trump’s performance in Helsinki
+
+S23 has engulfed the administration and spread to his fellow Republicans, eclipsing most of the frequent controversies that have erupted during Trump’s turbulent 18 months in office.
+
+S24 Senate Majority Leader Mitch McConnell told reporters that Russia was not a friend of the United States and warned against a repeat of election meddling in November’s congressional elections.
+
+S25 “There are a lot of us who fully understand what happened in 2016 and it really better not happen again in 2018,” McConnell said.
+
+S26 TOUGHER SANCTIONS
+
+S27 Some lawmakers said they would seek remedies against Russia in Congress.
+
+S28 U.S. President Donald Trump reads from prepared remarks as he speaks about his summit meeting with Russia's President Vladimir Putin at the start of a meeting with members of the U.S. Congress at the White House in Washington, July 17, 2018.
+S29 REUTERS/Leah Millis
+
+S30 Several senators from both parties backed tougher sanctions on Russia.
+S31 McConnell and House Speaker Paul Ryan, who called Russia’s government “menacing,” said their chambers could consider additional sanctions on Russia.
+
+S32 Congress overwhelmingly passed a sanctions law last year targeting Moscow for election meddling.
+S33 In April, the U.S. Treasury imposed sanctions on Russian officials and oligarchs in one of Washington’s most aggressive moves to punish Moscow.
+
+S34 Even before the allegations of Russian meddling, tensions were high over Moscow’s concerns about NATO expansion, Russian annexation of the Crimea peninsula from Ukraine in 2014 and its military backing of Syrian President Bashar al-Assad in the Syrian civil war.
+
+S35 Some U.S. lawmakers have suggested passing resolutions voicing support for intelligence agencies, or spending more to enhance election security and prevent cyber attacks.
+
+S36 Republican Senator Bob Corker, chairman of the Senate Foreign Relations Committee, said congressional leaders were searching for the most effective response.
+
+S37 “We’re trying to figure out what would be an appropriate way to push back,” Corker told reporters.
+S38 “You know the president can do more damage in 15 minutes at a press conference than we can undo in six months of passing resolutions.”
+
+S39 Corker said “the first step” would be hearing from U.S. Secretary of State Mike Pompeo, who will testify next Wednesday before the Senate Foreign Relations Committee.
+
+S40 Senate Democrats said they wanted the American interpreter at the Helsinki meeting to testify to Congress on what was said during the private Trump-Putin session.
+
+S41 U.S. intelligence agencies concluded last year that the Russian government interfered in the 2016 election campaign and sought to tilt the vote in Trump’s favor, which Moscow has denied.
+S42 Special Counsel Robert Mueller is investigating that allegation and any possible collusion by Trump’s campaign.
+
+S43 Trump has denied collusion and casts Mueller’s probe as a witch hunt that aims to detract from his election victory.
+
+S44 Not all Republicans were angry with Trump’s conduct in Helsinki.
+S45 “The president did a good thing by meeting with Putin,” Senator Rand Paul told CBS’ “This Morning” program, comments that won him public thanks from Trump on Twitter.
+
+S46 Slideshow (14 Images)
+
+S47 Russia’s political and media establishment heralded the summit as a victory for Putin in breaking down Western resolve to treat Russia as a pariah.
+
+S48 “The West’s attempts to isolate Russia failed,” read the headline in state-run newspaper Rossiisskaya Gazeta.
 

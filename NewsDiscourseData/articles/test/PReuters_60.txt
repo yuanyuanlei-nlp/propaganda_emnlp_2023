@@ -1,33 +1,30 @@
-URL https://www.reuters.com/article/us-marketo-m-a-adobe-systems/adobe-to-buy-marketing-software-firm-marketo-for-4-75-billion-idUSKCN1M0322
+URL https://www.reuters.com/article/us-russia-usa-summit/putin-says-fierce-u-s-politics-hindering-summit-with-trump-idUSKCN1J00V0
 
-DATE/ AUTHOR 2018-09-20 23:23:03+00:00	AUTHORS: Vibhuti Sharma, Min Read
+DATE/ AUTHOR 2018-06-04 08:21:26+00:00	AUTHORS: Reuters Editorial, Min Read
 
-H Adobe to buy marketing software firm Marketo for $4.75 billion
+H Putin says 'fierce' U.S. politics hindering summit with Trump
 
-S1 (Reuters) - Adobe Systems Inc on Thursday agreed to buy Marketo Inc for $4.75 billion from private equity firm Vista Equity Partners Management, adding heft to its cloud-based digital marketing business.
+S1 FILE PHOTO: Russian President Vladimir Putin speaks during a joint news conference with German Chancellor Angela Merkel following their meeting in the Black Sea resort of Sochi, Russia May 18, 2018.
+S2 REUTERS/Sergei Karpukhin/File Photo
 
-S2 An Adobe Systems Inc software box is seen in Los Angeles, California, U.S., March 13, 2017.
-S3 REUTERS/Lucy Nicholson
+S3 VIENNA (Reuters) - Russian President Vladimir Putin blamed political ructions in the United States for difficulties in arranging a summit with President Donald Trump, in remarks broadcast on Monday.
 
-S4 The U.S. Photoshop maker is sharpening its focus on the fast-growing cloud business, a fiercely competitive market dominated by Microsoft Corp, Oracle Corp and Salesforce.
+S4 Trump said in March the two leaders would meet soon.
+S5 But since then already fragile ties between Washington and Moscow have been strained further by the conflict in Syria and the poisoning of a former Russian spy in Britain.
 
-S5 Marketo’s business-to-business marketing applications will complement Adobe’s digital marketing business, which provides cloud-based tools to help create, manage and analyze advertising and marketing campaigns, the companies said.
+S6 Putin said last month the proposed summit was beset by problems and was not working out for now.
 
-S6 Marketo, started in 2006 as an email marketing service, was taken private by Vista for $1.8 billion in 2016.
+S7 Asked by Austrian broadcaster ORF why it was taking so long to arrange, he said: “You have to ask our colleagues in the USA.
+S8 In my view it is the consequence of the fierce domestic political contest in the United States.”
 
-S7 The San Mateo, California-based company generated revenue of about $321 million in 2017, according to credit ratings agency Moody’s Investors Service Inc.
+S9 Putin, who gave ORF an interview ahead of a visit to Austria on Tuesday, did not elaborate.
 
-S8 The deal is expected to close in the fourth quarter of Adobe’s fiscal 2018 and Marketo Chief Executive Officer Steve Lucas will join the company’s senior leadership team and continue to lead the Marketo team, Adobe said.
+S10 Trump is under pressure from special counsel Robert Mueller’s investigation into whether Russia meddled in the 2016 U.S. election and whether there was collusion with Trump’s campaign - something both he and Moscow deny.
 
-S9 After Vista acquired Marketo, it changed its management team, adding Lucas, a former SAP SE executive, as the CEO in 2016, who helped revive sales growth at the company.
+S11 “In one of our last discussions, Donald said he is concerned about the danger of a new arms race.
+S12 I agree with him entirely,” Putin said in a short extract released ahead of the full interview, to be broadcast on Monday evening.
 
-S10 Adobe has been on something of a shopping spree lately.
-S11 In May it agreed to buy cloud-based e-commerce services provider Magento Commerce from private equity firm Permira for $1.68 billion.
+S13 Apart from mentioning the U.S. withdrawal in 2002 from the Anti-Ballistic Missile Treaty, Putin did not elaborate.
 
-S12 Reuters had exclusively reported earlier this month that Adobe was in talks to buy Marketo.
-
-S13 JP Morgan advised Adobe, while its legal adviser was Hogan Lovells.
-S14 Morgan Stanley and Kirkland & Ellis advised Marketo and Vista Equity Partners.
-
-S15 Adobe shares were up marginally in extended trading.
+S14 Trump made a similarly vague reference to the issue in April, when he said “Stop the arms race?” in a tweet that also mentioned providing “help” for the Russian economy.
 

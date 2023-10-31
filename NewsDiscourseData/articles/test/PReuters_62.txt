@@ -1,66 +1,37 @@
-URL https://www.reuters.com/article/us-facebook-instagram-executives/instagram-co-founders-resign-in-latest-facebook-executive-exit-idUSKCN1M505Q
+URL https://www.reuters.com/article/us-timor-politics/new-east-timor-pm-pledges-to-bring-unity-after-political-deadlock-idUSKBN1JI1JO
 
-DATE/ AUTHOR 2018-09-25 14:03:35+00:00	AUTHORS: Paresh Dave, Min Read
+DATE/ AUTHOR 2018-06-22 12:12:31+00:00	AUTHORS: Nelson De La Cruz, Min Read
 
-H Instagram co-founders resign in latest Facebook executive exit
+H New East Timor PM pledges to bring unity after political deadlock
 
-S1 Rockville, MD (Reuters) - Instagram on Monday said co-founders Kevin Systrom and Mike Krieger have resigned as chief executive officer and chief technical officer of the photo-sharing app owned by Facebook Inc, giving scant explanation for the move.
+S1 DILI (Reuters) - Former East Timor independence fighter Jose Maria de Vasconcelos was sworn in as prime minister on Friday and pledged to bring unity to the tiny Southeast Asian nation after months of political deadlock.
 
-S2 The departures at Facebook’s fastest-growing revenue generator come just months after the exit of Jan Koum, co-founder of Facebook-owned messaging app WhatsApp, leaving the social network without the developers behind two of its biggest services.
+S2 Former East Timor independence fighter Jose Maria de Vasconcelos, popularly known as Taur Matan Ruak is seen following his swearing in ceremony as the country's new prime minister in Dili, East Timor June 22, 2018.
+S3 REUTERS /Lirio da Fonseca
 
-S3 They also come at a time when Facebook’s core platform is under fire for how it safeguards customer data, as it defends against political efforts to spread false information, and as younger users increasingly prefer alternative ways to stay in touch with family and friends.
-S4 Concerns over Facebook’s business sparked the biggest one-day wipeout in U.S. stock market history in July.
+S4 President Francisco Guterres dissolved parliament in January after former Prime Minister Mari Alkatiri’s minority government faced a legislative stalemate.
 
-S5 Systrom wrote in a blog post on Monday that he and Krieger planned to take time off and explore “our curiosity and creativity again”.
+S5 De Vasconcelos, known as Taur Matan Ruak, which means Two Sharp Eyes, is a former president.
 
-S6 Their announcement came after increasingly frequent clashes with Facebook Chief Executive Mark Zuckerberg over the direction of Instagram, Bloomberg reported.
+S6 He belongs to a three-party coalition, the Alliance of Change for Progress (AMP), that won 34 of the 65 seats up for grabs in May’s parliamentary election, the fifth since independence from Indonesia in 2002.
 
-S7 In a statement, Zuckerberg described the two as “extraordinary product leaders”.
+S7 During his swearing-in at a restored presidential palace built during Portuguese colonial rule, he promised to “dedicate all my energies and knowledge to the defense and consolidation of independence and national unity”.
 
-S8 “I’ve learned a lot working with them for the past six years and have really enjoyed it.
-S9 I wish them all the best and I’m looking forward to seeing what they build next,” Zuckerberg said.
+S8 But illustrating challenges to forming a stable new government, Guterres a day earlier had rejected eight of the ministers put forward by Ruak because of corruption investigations.
 
-S10 INDEPENDENCE
+S9 A 2017 parliamentary election produced no clear winner, with Alkatiri’s Fretilin party winning just 0.2 percent more votes than CNRT, and forming a minority government in the country of 1.2 million people.
 
-S11 Koum’s departure in May followed the exit of his WhatsApp co-founder Brian Acton.
+S10 Guterres said the political deadlock had created “fear and uncertainty” and the new government needed to use its mandate to “boost national development, living conditions in the communities throughout the country and develop our economy”.
 
-S12 That led to a reshuffling of Facebook’s executive ranks, increasing Zuckerberg’s ability to influence day-to-day operations.
-S13 Zuckerberg ally Chris Cox, who leads product development for Facebook’s main app, gained oversight of WhatsApp and Instagram, which had been given independence when Facebook bought them.
+S11 Asia’s youngest democracy has been largely peaceful in recent years following recurrent bouts of political instability that it suffered since independence.
 
-S14 FILE PHOTO: Instagram founders Mike Krieger (L) and Kevin Systrom attend the 16th annual Webby Awards in New York May, 21 2012.
-S15 REUTERS/Stephen Chernin/File photo
+S12 But it has struggled to reduce poverty, stamp out corruption and develop its rich oil and gas resources.
 
-S16 Adam Mosseri, who had overseen Facebook’s news feed and spent a decade working closely with Zuckerberg, became Instagram’s head of product.
+S13 The energy sector made up about 60 percent of gross domestic product in 2014 and more than 90 percent of government revenue.
 
-S17 Instagram and Facebook have operated independently and the two services barely mention each other.
-S18 But as regulators have pushed Facebook to improve information safeguards for individual privacy, to combat addiction to social media, and to stop misinformation or fake news, Zuckerberg and other leaders have been under more pressure to monitor units beyond the core social network.
+S14 Ruak said his new government would improve equality and develop the economy so it does not “just rely on interest from the petroleum fund”.
 
-S19 ACQUISITION DONE RIGHT
+S15 The AMP coalition includes the National Congress for Timorese Reconstruction (CNRT) party of independence hero Xanana Gusmao.
 
-S20 Systrom and Krieger notified the photo-sharing app’s leadership team and Facebook on Monday about their decision to leave, Instagram said.
-S21 Their departure would be soon, it said.
-S22 The New York Times first reported the move.
-
-S23 Systrom and Krieger met through Stanford University and worked separately in Silicon Valley before forming Instagram in 2010.
-
-S24 Facebook bought Instagram in 2012 for $1 billion.
-S25 The photo-sharing app has over 1 billion active monthly users and has grown by adding features such as messaging and short videos.
-S26 In 2016, it added the ability to post slideshows that disappear in 24 hours, mimicking the “stories” feature of Snap Inc’s Snapchat.
-
-S27 The photo app’s global revenue this year is likely to exceed $8 billion, showed data from advertising consultancy EMarketer.
-
-S28 Increased advertising on Instagram has seen the average price-per-ad across Facebook’s apps decline this year after a year of upswing.
-S29 A new privacy law in Europe also has affected prices.
-
-S30 Instagram had been hailed in Silicon Valley as a flashy acquisition done right, with the team kept relatively small and Systrom having the freedom to add features such as peer-to-peer messaging, video uploads and advertising.
-
-S31 “I see Mark [Zuckerberg] practice a tremendous amount of restraint in giving us the freedom to run, but the reason why I think he gives us the freedom to run is because when we run, it typically works,” Systrom told Recode last June.
-
-S32 FILE PHOTO: Instagram Chief Executive Kevin Systrom answers a question at a news conference, as L-R: social media star Bryce Xavier, Instagram Product Manager Ashley Yuki and social media star Lele Pons look on, in San Francisco, California, U.S., June 20, 2018.
-S33 REUTERS/David Ingram/File Photo
-
-S34 The app’s latest product, IGTV, has been slow to gain traction.
-S35 Offered through Instagram and as a standalone app, IGTV serves up longer-length video content, mostly from popular Instagram users.
-
-S36 Video content has been a major emphasis for Facebook as it seeks to satisfy advertisers’ desire to stream more commercials online.
+S16 Gusmao, the country’s first president and a former prime minister, is expected to be take up a special ministerial post to advise Ruak, an AMP official has said.
 
