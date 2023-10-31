@@ -14,9 +14,9 @@ Identifying propaganda content at sentence-level and token-level.
 <br/>
 
 ## Data Description
-* **Propaganda:** We used the propaganda dataset (Da San Martino et al., 2019) for the propaganda identification experiments.<br/>
-* **PDTB:** We used PDTB 2.0 dataset (Prasad et al., 2008) to train the discourse relations model.<br/>
-* **NewsDiscourseData:** We used the news discourse dataset (Choubey et al., 2020) to train the news discourse role model.<br/>
+* **Propaganda:** We used the propaganda dataset for the propaganda identification experiments (https://aclanthology.org/D19-1565/) (https://propaganda.qcri.org/fine-grained-propaganda-emnlp.html)<br/>
+* **PDTB:** We used PDTB 2.0 dataset to train the discourse relations model (https://aclanthology.org/L08-1093/) (https://catalog.ldc.upenn.edu/LDC2008T05)<br/>
+* **NewsDiscourseData:** We used the news discourse structure dataset to train the news discourse role model (https://github.com/prafulla77/Discourse_Profiling)<br/>
 
 <br/>
 
