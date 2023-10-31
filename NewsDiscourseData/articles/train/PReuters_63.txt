@@ -1,74 +1,70 @@
-URL https://www.reuters.com/article/us-ge-ceo/general-electric-replaces-ceo-and-shares-soar-idUSKCN1MB2CY
+URL https://www.reuters.com/article/us-britain-russia/britain-charges-two-russians-for-state-backed-plot-to-kill-skripals-idUSKCN1LL160
 
-DATE/ AUTHOR 2018-10-01 22:42:26+00:00	AUTHORS: Alwyn Scott, Min Read
+DATE/ AUTHOR 2018-09-06 06:32:21+00:00	AUTHORS: Michael Holden, Min Read
 
-H General Electric replaces CEO with outsider; shares soar
+H Britain charges two Russians for state-backed plot to kill Skripals
 
-S1 (Reuters) - General Electric Co (GE.N) ousted Chief Executive Officer John Flannery in a surprise move on Monday, replacing him with outsider and board member Larry Culp, and said it would take a roughly $23 billion charge to write off goodwill in its power division, primarily from a large 2015 acquisition.
+S1 LONDON (Reuters) - Britain charged two Russians in absentia on Wednesday with the attempted murder of a former Russian spy and his daughter, and said the suspects were military intelligence officers almost certainly acting on orders from high up in the Russian state.
 
-S2 The struggling energy, health and transportation conglomerate also said it would fall short of its forecast for free cash flow and earnings per share for 2018 due to weakness in its power business, something analysts had expected.
+S2 British police revealed images of the two men they said had flown to Britain for a weekend in March to kill former spy Sergei Skripal with Novichok, a military-grade nerve agent.
 
-S3 GE shares jumped 7 percent to close at $12.09 as investors bet that Culp could re-energize the GE brand and more quickly transform its portfolio.
-S4 The stock was the top percentage gainer on the S&P 500 .SPX.
-S5 The shares had more than halved since Flannery, a three-decade GE veteran, became CEO in August 2017 to replace Jeff Immelt, who had led GE since 2001.
-S6 With a market capitalization below $100 billion as of Friday, GE was worth less than a fifth of its peak value a generation ago.
+S3 Skripal’s daughter Yulia and a police officer who attended the scene also fell ill in the case, which has caused the biggest East-West diplomatic expulsions since the Cold War.
+S4 A woman later died from Novichok poisoning after her partner found a counterfeit perfume bottle which police believe had been used to smuggle the nerve agent into Britain.
 
-S7 GE Power’s falling profits last year forced GE to slash its overall profit outlook and cut its dividend for only the second time since the Great Depression.
+S5 British authorities identified the suspects as Russian nationals traveling on genuine passports under the aliases Alexander Petrov and Ruslan Boshirov.
+S6 Prime Minister Theresa May told parliament the government had concluded they were officers in Russia’s military intelligence service, the GRU.
 
-S8 GE’s board, meeting in the last few days, unanimously picked Culp as its new CEO.
-S9 Culp, 55, who was named to GE’s board in February, was CEO of industrial equipment supplier Danaher Corp (DHR.N) from 2000 to 2014, helping grow the company into a broader conglomerate through a series of acquisitions, while also growing earnings.
+S7 “The GRU is a highly disciplined organization with a well-established chain of command, so this was not a rogue operation,” May said.
+S8 “It was almost certainly also approved outside the GRU at a senior level of the Russian state.”
 
-S10 Related Coverage GE's long share price decline claims another casualty
+S9 Skripal, himself a former GRU officer who betrayed dozens of agents to Britain’s MI6 foreign spy service, was found unconscious with Yulia on a public bench in the southern English city of Salisbury on March 4.
 
-S11 Some analysts said that GE Power likely missed financial targets for the third quarter, contributing to Flannery’s ouster.
-S12 GE, scheduled to report results on Oct. 25, declined to comment.
+S10 Police released security camera images of the two suspects and outlined a three-day mission that took them from Moscow to London to Salisbury, where they sprayed poison on Skripal’s door before flying back to Moscow hours later.
 
-S13 The broad strategies are likely to be similar because the plan laid out by Flannery was made in conjunction with heavy involvement from the board, which included Culp, said Gabelli & Co analyst Justin Bergner.
+S11 The Russian charge d’affaires in London was summoned to the Foreign Office to be told Britain wanted those responsible to be brought to justice.
+S12 However Moscow, which has repeatedly denied any involvement in the attack, said the names meant nothing.
 
-S14 SHADOW OF ITS FORMER SELF
+S13 “We have heard or seen two names, these names mean nothing to me personally,” Kremlin aide Yuri Ushakov told reporters in Moscow.
+S14 “I don’t understand why this was done and what sort of signal the British side is sending.”
 
-S15 GE’s board was unhappy with the pace of the company’s turnaround under Flannery, and when the size of the writedown in the power plant division, which makes electric generating equipment, became apparent, the board was persuaded to seek a new CEO, according to a person familiar with the matter who requested anonymity to discuss confidential deliberations.
+S15 Britain and dozens of other countries have kicked out scores of Russian diplomats over the incident, and Moscow has responded tit-for-tat with an identical number of expulsions.
+S16 The affair has worsened Russian relations with the West, already under strain over Ukraine, Syria and other issues.
 
-S16 However, GE will not be changing its announced breakup plan, which calls for spinning off healthcare and shedding its stake in oil services company Baker Hughes (BHGE.N), the source added.
+S17 May’s spokesman said May had briefed U.S. President Donald Trump on Tuesday evening.
+S18 U.S.
+S19 Ambassador to Britain Woody Johnson said on Twitter the United States stood with Britain in holding Russia accountable for its “act of aggression”.
+S20 Britain will update the U.N. Security Council at a meeting on Thursday.
 
-S17 FILE PHOTO: General Electric CEO John Flannery is seen at the company’s office in New York City, U.S., June 26, 2018.
-S18 REUTERS/Alwyn Scott
+S21 Alexander Petrov and Ruslan Boshirov, who were formally accused of attempting to murder former Russian intelligence officer Sergei Skripal and his daughter Yulia in Salisbury, are seen in an image handed out by the Metropolitan Police in London, Britain September 5, 2018.
+S22 Metroplitan Police handout via REUTERS
 
-S19 Culp indicated that he will tackle the company’s problems aggressively.
-S20 “We will move with urgency.
-S21 ... We have a lot of work ahead of us to unlock the value of GE,” he said in a statement.
+S23 “REMARKABLY SOPHISTICATED”
 
-S22 The troubles in the power plant unit have been intensifying, as Reuters reported in July, with the news that one of its most valuable clients, Saudi Arabia, was lining up competitors to bid against GE for lucrative power plant work.
+S24 The “remarkably sophisticated” attack appeared to be a clear assassination attempt, said Neil Basu, head of UK counter terrorism policing.
+S25 He described an investigation which involved 250 detectives and analysis of some 11,000 hours of video.
 
-S23 GE doubled down on fossil fuels in 2015 under Immelt with the $10.3 billion purchase of French group Alstom SA’s (ALSO.PA) power business.
-S24 The deal expanded GE’s exposure to gas, coal and nuclear power.
-S25 It added employees, dozens of factories and service centers at a time when GE was trying to cut costs.
+S26 According to police, the suspects, both around 40 years old, flew to London from Moscow on March 2.
+S27 They spent two nights in an east London hotel, making two day trips to Salisbury, the first for reconnaissance, the second to kill Skripal.
+S28 They flew out on March 4, hours after the Skripals were found unconscious.
 
-S26 “The board is signaling to the market that we are not going to give anyone free reign like we did with Jeff Immelt,” said Morningstar analyst Joshua Aguilar.
+S29 Security cameras filmed the suspects near Skripal’s house, and traces of Novichok were found in their London hotel room.
 
-S27 The power division’s outlook appeared to worsen last month when GE said several power plants equipped with its newest turbines had to be shut down because of a part failure.
+S30 The Russians were charged with conspiracy to murder Sergei Skripal and with the attempted murder of Skripal, his daughter and police officer Nick Bailey.
+S31 They are also charged with illegal use and possession of a chemical weapon.
 
-S28 Changing CEOs “won’t fix short-term problems at power, but Larry, as an outsider, will be able to make the difficult decisions on cost,” said Scott Davis, an analyst at Melius Research in New York.
-S29 “GE is bloated and its culture is destroyed.”
+S32 A European arrest warrant has been issued for them, but prosecutors said Britain would not ask Moscow to extradite Russian citizens because Russia’s constitution forbids it.
 
-S30 Lawrence Culp, chairman and CEO of General Electric (GE) is pictured in this undated handout photo obtained by Reuters October 1, 2018.
-S31 PRNewsFoto/T.
-S32 Rowe Price Group, Inc./Handout via REUTERS
+S33 Basu said the Skripals were making a good recovery.
 
-S33 Davis said the stock price has probably already adjusted to expectations of no contribution from power.
+S34 A woman near Salisbury, Dawn Sturgess, died in July and her partner Charlie Rowley fell ill after Rowley found a counterfeit bottle of Nina Ricci perfume in a charity collection box and brought it home.
+S35 It contained Novichok.
+S36 Basu said police had no doubt the events were linked, and were discussing charges over the Sturgess and Rowley case with prosecutors.
 
-S34 A slimmed down General Electric - a 126-year-old conglomerate that was once the most valuable U.S. corporation and a global symbol of American business power — will focus on jet engines, power plants and renewable energy.
+S37 Slideshow (14 Images)
 
-S35 In June, GE lost its spot in the blue-chip Dow Jones Industrial Average .DJI after over a century.
+S38 The Skripal case has been likened by British politicians to the murder of Russian dissident ex-spy Alexander Litvinenko, who was poisoned with a rare radioactive isotope in a London hotel in 2006.
+S39 Britain charged two Russians with his murder but both remain in Russia, and one later won a seat in parliament.
 
-S36 “Investors grew impatient with the lack of improvement and with the sheer scale of the problems uncovered.
-S37 However, these problems were not created under [Flannery’s] tenure,” CFRA analyst Jim Corridore said in a note.
-S38 “The market seems to be welcoming a change in leadership but the new CEO will be facing many of the same problems.”
-
-S39 GE said the power division’s goodwill balance is about $23 billion and the impairment charge would eliminate most of it.
-S40 The non-cash charge primarily relates to GE’s acquisition of power assets from Alstom in 2015, GE said.
-
-S41 GE’s long stock slide means the once-largest U.S. industrial company is now only sixth in terms of market capitalization, behind Boeing Co (BA.N), 3M Co (MMM.N), Honeywell International Inc (HON.N), United Technologies Corp (UTX.N) and others.
-
-S42 (For grapchic on GE stock performance, click reut.rs/2Isclc1)(For graphic on the largest U.S. industrial companies, click tmsnrt.rs/2IA3DJ7)
+S40 May said the Litvinenko case showed there was no point to demanding the Skripal suspects’ extradition.
+S41 “But should either of these individuals ever again travel outside Russia, we will take every possible step to detain them, to extradite them and to bring them to face justice here in the United Kingdom.”
 

@@ -1,40 +1,50 @@
-URL https://www.reuters.com/article/us-global-climatechange-summit/businesses-pledge-climate-change-action-at-new-york-summit-idUSKCN1M62VI
+URL https://www.reuters.com/article/us-chicago-police/chicago-police-killing-of-black-teen-was-unjustifiable-prosecutor-idUSKCN1ME14J
 
-DATE/ AUTHOR 2018-09-26 21:32:45+00:00	AUTHORS: Sebastien Malo, Min Read
+DATE/ AUTHOR 2018-10-05 02:38:39+00:00	AUTHORS: Suzannah Gonzales, Min Read
 
-H Businesses pledge climate change action at New York summit
+H Chicago police killing of black teen was unjustifiable: prosecutor
 
-S1 NEW YORK (Thomson Reuters Foundation) - A new investment fund for green businesses and a tool to measure emissions were among the pledges to help governments curb global warming at a summit on climate financing convened by the French president on Wednesday.
+S1 CHICAGO (Reuters) - The white Chicago policeman who shot a black teen 16 times in 2014 committed an act of unjustifiable murder, a prosecutor told jurors on Thursday, while the defense argued that the officer had seen the youngster carrying a knife and feared for his safety.
 
-S2 French President Emmanuel Macron speaks at the One Planet Summit in New York, U.S., September 26, 2018.
-S3 REUTERS/Shannon Stapleton
+S2 The trial has intensified a debate on race relations and police use of force in the third-largest U.S. city.
 
-S4 Emmanuel Macron called on government and business leaders to invest more in slowing down climate change as he opened the second annual “One Planet” summit in New York.
+S3 Jason Van Dyke, 40, is charged with first-degree murder, aggravated battery and official misconduct.
+S4 He is the first Chicago police officer to face a murder charge for an on-duty incident in decades and could be sentenced to life in prison if convicted.
 
-S5 “We have to shift one third of the global financing to financing of climate change and new climate action,” he said.
+S5 Following the closing arguments, the jury deliberated for several hours on Thursday afternoon.
+S6 They will be sequestered at a hotel and will resume deliberating on Friday morning.
+S7 Jurors are permitted to consider a lesser charge of second-degree murder as an alternative.
 
-S6 “So governments, the World Bank, all the development banks, business leaders and investors, it is our job.
-S7 Everybody is waiting for us and everybody today wants us just to accelerate.”
+S8 The release of a video in 2015 that showed 17-year-old Laquan McDonald’s shooting sparked days of protest in Chicago, part of a wave of high-profile police killings of black men that has prompted a national conversation about race and policing.
 
-S8 BlackRock, the world’s largest asset manager, said it would help structure a climate fund for investment in green sectors such as renewable energy and low-carbon transportation across Latin America, Asia, and Africa.
+S9 The case will largely turn on whether jurors believe Van Dyke reasonably feared for his safety when he shot McDonald.
 
-S9 The French and German governments and large philanthropic organizations including The Hewlett Foundation have pledged initial funds to the Climate Finance Partnership, which organizers said would be set up next year.
+S10 Prosecutor Jody Gleason told jurors on Thursday that an officer can only use deadly force “when it’s reasonable and necessary,” a standard that she said Van Dyke had fallen short of meeting.
 
-S10 The one-day gathering in New York, where world leaders were gathered for the United Nations General Assembly, drew the leaders of global companies as well as more than two dozen heads of state and government.
+S11 “This case has been about exaggerating the threat and trying to hide behind the police shield,” Gleason said.
+S12 “Why?
+S13 Because there’s no justification for shooting Laquan McDonald that night.
+S14 Not one shot.
+S15 Not the first shot.
+S16 Not the 16th shot.”
 
-S11 The World Bank, which lends to developing countries, announced a platform to pledge $1 billion toward developing battery-storage technology.
+S17 Prosecutors say the video, taken from a dashboard camera and repeatedly shown to the jury, shows McDonald was not moving toward Van Dyke when he began firing and that he continued to shoot after McDonald fell to the ground.
 
-S12 Energy storage is becoming increasingly important as production of renewable energy rises, because the wind might not blow or the sun shine during the peak hours when most consumers turns on their lights and appliances.
+S18 But Van Dyke’s attorney Daniel Herbert argued that the video did not show the scene from Van Dyke’s perspective.
+S19 Van Dyke, he said, arrived as the “threat level” was rising and had been trained to continue shooting until the threat had ended.
 
-S13 Tech giant Google announced the launch of a tool to generate data on greenhouse gas emissions from road traffic and on the solar capacity of cities, which it captures through its popular mapping service Google Earth.
+S20 “It’s a tragedy, but not a murder,” Herbert said.
+S21 “And it’s a tragedy that could have been prevented with one simple step.
+S22 At any point throughout that 20-some-minute rampage, had Laquan McDonald dropped that knife, he’d be here today.”
 
-S14 “If you cannot measure it you can’t manage it,” said Michael Bloomberg, the former New York mayor who is now the U.N. Secretary General’s special envoy for Cities and Climate Change.
+S23 Van Dyke took the witness stand in his own defense on Tuesday, telling jurors he felt threatened because McDonald was advancing toward him at the time he began firing.
 
-S15 Cities worldwide account for more than 70 percent of carbon dioxide emissions.
+S24 Slideshow (2 Images)
 
-S16 Climate change is causing more frequent and severe flooding, droughts, storms and heatwaves as average global temperatures rise to new records, sea ice melts in the Arctic and sea levels rise.
+S25 The officer said the dashboard camera video, which was taken from the side, does not show what occurred from his point of view.
 
-S17 The second “One Planet” summit took place nearly three years after almost 200 governments agreed the Paris accord to end the fossil-fuel era this century and limit further global warming to well below 2 degrees above pre-industrial times.
+S26 Van Dyke’s lawyers have portrayed McDonald as an out-of-control, dangerous criminal who was under the influence of a drug.
 
-S18 U.S. President Donald Trump weakened the pact last year when he said the United States, the world’s second biggest greenhouse gas polluter after China, would pull out.
+S27 The trial is now in its third week.
+S28 The 12-person jury includes one black member.
 

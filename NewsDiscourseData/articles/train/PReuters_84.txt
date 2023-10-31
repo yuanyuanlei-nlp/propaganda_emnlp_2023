@@ -1,38 +1,29 @@
-URL https://www.reuters.com/article/us-europe-stocks/european-shares-steady-as-trade-talks-u-s-politics-fuel-uncertainty-idUSKCN1L70O8
+URL https://www.reuters.com/article/us-malta-daphne/magistrate-refuses-bail-to-men-accused-of-malta-journalists-murder-idUSKBN1K11FG
 
-DATE/ AUTHOR 2018-08-22 16:11:49+00:00	AUTHORS: Julien Ponthus, Min Read
+DATE/ AUTHOR 2018-07-11 10:46:27+00:00	AUTHORS: Reuters Editorial, Min Read
 
-H European shares steady as trade talks, U.S. politics fuel uncertainty
+H Magistrate refuses bail to men accused of Malta journalist's murder
 
-S1 LONDON (Reuters) - European stock markets ended broadly flat on Wednesday in a session of choppy trading amidst trade talks between the U.S. and China and uncertainty over U.S. President Donald Trump’s legal woes.
+S1 FILE PHOTO: Matthew Caruana Galizia, son of assassinated investigative journalist Daphne Caruana Galizia, and her mother Rose Vella attend a vigil and demonstration marking eight months since her murder in a car bomb, in Valletta, Malta June 16, 2018.
+S2 REUTERS/Darrin Zammit Lupi/File Photo
 
-S2 Traders work at Frankfurt's stock exchange in Frankfurt, Germany, February 6, 2018.
-S3 REUTERS/Ralph Orlowski
+S3 VALLETTA (Reuters) - A Maltese magistrate on Wednesday refused bail to three men accused of murdering Maltese anti-corruption journalist Daphne Caruana Galizia last year, saying they could flee and their release would upset the public.
 
-S4 The pan-European STOXX 600 was flat in percentage terms at its close as investors waited to see whether the United States and China could make progress towards resolving their trade conflict.
+S4 “The way the murder was committed was very disturbing and bore a close resemblance to a mafia execution.
+S5 Therefore the court feels it should protect society from the disturbance which granting bail would create,” Magistrate Claire Stafrace Zammit said in her decreed denying bail.
 
-S5 Political developments in the United States have had limited effects, at least so far.
-S6 U.S. President Donald Trump’s former lawyer, Michael Cohen, pleaded guilty to campaign finance violations on Tuesday and former campaign manager, Paul Manafort, was found guilty on charges of tax and bank fraud.
+S6 “The victim was not an ordinary individual, she was a journalist, and therefore her murder can be interpreted as an attack on freedom of expression, which is one of the pillars of our society,” she said.
 
-S7 “Stock markets are mixed as trade talks still dominate the headlines,” David Madden, market analyst at CMC Markets UK, said in a note.
+S7 Alfred Degiorgio, his brother George Degiorgio, and Vince Muscat were arrested at the end of last year and accused of the October 2017 car-bomb assassination, though police have said they suspect the murder was ordered by someone else.
 
-S8 While a rise in the oil price boosted oil stocks .SXEP and miners .SXPP also powered ahead, autos .SXAP were notable underperformers.
+S8 In pre-trial hearings, prosecutors said the bomb had been placed in Caruana Galizia’s car and set off by a text message from a mobile phone on a yacht belonging to the Degiorgios.
 
-S9 The sector dropped more than 3 percent and was on track for its biggest daily fall since the Brexit vote in June 2016 after automotive supplier Continental AG (CONG.DE) dropped more than 14 percent on the back of a profit warning.
+S9 Stafrace Zammit has already ruled that there is enough evidence for the three to be tried, but the trial’s start date has not been set.
+S10 All three are pleading not guilty.
 
-S10 Continental cut its 2018 sales and margin guidance, citing lower revenues, higher costs for developing hybrid and electric car technologies, and unspecified warranty claims.
+S11 On Wednesday, the magistrate said her decision was based on the gravity of the crime and her belief that “on the basis of their record” the men probably would not hesitate to flee if granted bail.
 
-S11 “While most profit warnings are by definition a surprise, this one is all the more concerning as most of these headwinds were flagged and should have been evident when the company reported H2 results on 2 August; higher warranty costs being an exception,” analysts at Jefferies said in a note.
+S12 The accused may not have acted alone, she said, so their release could also interfere with efforts to track down others who may have been involved.
 
-S12 Elsewhere, shares in Belgian biopharma Argenx (ARGX.BR) rose 4.7 percent after Abbvie (ABBV.N) exercised an option to develop and commercialize a drug.
-
-S13 Among smaller companies, Adyen (ADYEN.AS), the Dutch company which processes payments for Netflix and Facebook, reported H1 profit up 75 percent and jumped 4.3 percent.
-
-S14 Though Atlantia (ATL.MI) rose earlier in the session, shares in the Italian infrastructure group declined steadily throughout the day and ended nearly 4 percent lower.
-
-S15 The group said it had started looking at the impact on its shares and bonds of government plans to strip it of its motorway concessions after the Genoa bridge collapse.
-
-S16 Linde (LING.DE) dipped 0.6 percent after warning that divestments needed to secure approval for its planned tie-up with Praxair had a size that would allow either party to abandon the deal.
-
-S17 The industrial gases supplier nevertheless added that it was in constructive talks to salvage the $83 billion merger.
+S13 Since Caruana Galizia’s murder, Malta has come under pressure from European Union institutions, with an inquiry under way on its banking supervision and calls for investigations into the Mediterranean island country’s rule of law.
 

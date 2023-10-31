@@ -1,33 +1,31 @@
-URL https://www.reuters.com/article/us-usa-economy-durables/rise-in-u-s-business-equipment-orders-points-to-firm-investment-idUSKCN1L91AM
+URL https://www.reuters.com/article/us-usa-crime-murderforhire/ex-u-s-soldier-two-others-convicted-of-murder-for-hire-plot-in-philippines-idUSKBN1HP3A7
 
-DATE/ AUTHOR 2018-08-24 13:51:51+00:00	AUTHORS: Jason Lange, Min Read
+DATE/ AUTHOR 2018-04-19 14:57:52+00:00	AUTHORS: Brendan Pierson, Min Read
 
-H Rise in U.S. business equipment orders points to firm investment
+H Ex-U.S. soldier, two others convicted of murder-for-hire plot in Philippines
 
-S1 WASHINGTON (Reuters) - New orders for key U.S.-made capital goods increased more than expected in July and growth in shipments held firm, signaling that business investment started the third quarter on a strong note.
+S1 Thai policemen escort Joseph Hunter, a former U.S. Army sergeant nicknamed Rambo, as he arrives at Don Mueang International Airport in Bangkok, Thailand on September 27, 2013.
+S2 REUTERS/Chaiwat Subprasom/Files Photo
 
-S2 The Commerce Department said on Friday orders for non-defense capital goods excluding aircraft, a closely watched proxy for business spending plans, rose 1.4 percent last month after an upwardly revised 0.9 percent increase in June.
+S3 NEW YORK (Reuters) - A former U.S. Army sergeant and two other U.S. citizens were found guilty by a jury in Manhattan federal court on Wednesday of taking part in a plot to murder a woman in the Philippines for money, prosecutors said.
 
-S3 “That provides further reason to think that overall GDP has continued to expand at a healthy ... pace,” said Andrew Hunter, an economist at Capital Economics.
+S4 Ex-soldier Joseph Manuel Hunter, Adam Samia and Carl David Stillwell were convicted of charges including murder-for-hire, which carries a mandatory life sentence, according to the office of U.S. Attorney Geoffrey Berman in Manhattan.
 
-S4 Business spending on equipment is being supported by the Trump administration’s $1.5 trillion income tax cut package, which came into effect in January.
+S5 “Obviously, we’re disappointed, but respect the jury’s verdict,” said Robert Ray, a lawyer for Stillwell, adding he planned to appeal.
 
-S5 But there are worries that trade tensions between the United States and its major trade partners, including China, Canada, Mexico and the European Union, could offset the fiscal stimulus.
+S6 Lawyers for Hunter and Samia could not immediately be reached for comment.
 
-S6 Economists polled by Reuters had forecast the so-called core capital goods orders rising 0.4 percent in July after a previously reported 0.2 percent gain in June.
-S7 Core capital goods orders increased 7.2 percent on a year-on-year basis.
+S7 Hunter, 52, is scheduled to be sentenced by U.S. District Judge Ronnie Abrams on Sep. 7.
+S8 He is already serving a 20-year sentence after pleading guilty in 2015 to separate charges of conspiring to kill a federal drug agent and an informant.
 
-S8 Shipments of core capital goods rose 0.9 percent last month after an upwardly revised 0.9 percent gain in June.
+S9 Samia, 43, and Stillwell, 50, are scheduled to be sentenced by Abrams on Sep. 14.
+S10 Samia is a self-described “personal protection/security industry” professional trained in tactics and weapons, while Stillwell’s resume says he worked at a North Carolina firm that provides firearms training, according to court filings.
 
-S9 Core capital goods shipments are used to calculate equipment spending in the government’s gross domestic product measurement, so the higher estimate for shipments in June could contribute to an upward revision of economic growth in the second quarter.
+S11 Prosecutors said Samia and Stillwell traveled to the Philippines and murdered a woman there in February 2012, and were each paid $35,000 by Hunter.
+S12 The woman was shot multiple times in the face and left on a pile of garbage, prosecutors said.
 
-S10 Yields on U.S. government debt rose modestly after the data, with investors awaiting a speech by Federal Reserve Chairman Jerome Powell.
-S11 U.S. stocks were trading higher while the dollar .DXY was down against a basket of currencies.
+S13 The first charges against Hunter stemmed from a U.S. Drug Enforcement Administration sting operation that followed the arrest in Liberia in 2012 of Hunter’s boss, Paul Le Roux, the Zimbabwe-born head of a multinational criminal organization.
 
-S12 Business investment drove about a quarter of economic growth in the second quarter.
-S13 The economy grew at its fastest pace in the April-June period as consumers boosted spending and farmers rushed shipments of soybeans to China before retaliatory trade tariffs took effect in early July.
-
-S14 The United States has slapped duties on $50 billion worth of Chinese goods so far, eliciting the retaliation from Beijing.
-
-S15 Overall orders for durable goods, items ranging from toasters to aircraft that are meant to last three years or more, fell 1.7 percent in July as volatile demand for civilian aircraft fell.
+S14 Le Roux subsequently agreed to cooperate with authorities.
+S15 He admitted to shipping drugs and weapons around the world and to having ordered various murders, and ordered a fake murder-for-hire operation to help authorities catch Hunter, according to court records.
 

@@ -1,96 +1,58 @@
-URL https://www.reuters.com/article/us-lg-display-crisis-focus/lg-display-struggles-for-footing-after-lcd-forecasting-error-leads-to-crisis-idUSKCN1LS0TV
+URL https://www.reuters.com/article/us-iowa-crime/iowa-students-murder-thrust-into-us-debate-over-immigration-idUSKCN1L72BU
 
-DATE/ AUTHOR 2018-09-13 02:20:04+00:00	AUTHORS: Ju-Min Park, Min Read
+DATE/ AUTHOR 2018-08-23 09:36:17+00:00	AUTHORS: Joseph Ax, Min Read
 
-H LG Display struggles for footing after LCD forecasting error leads to crisis
+H Iowa student's murder thrust into U.S. debate over immigration
 
-S1 SEOUL (Reuters) - The chief executive of South Korea’s LG Display (034220.KS), Han Sang-beom, was determined to deliver a strong message when he appeared before 1,000 employees at the firm’s main manufacturing plant last spring.
+S1 (Reuters) - The arrest of a man who U.S. authorities have said is an illegal immigrant on charges of murdering an Iowa college student has thrust the case into the debate on immigration policy, with President Donald Trump blaming Mollie Tibbetts’ death on weak laws.
 
-S2 FILE PHOTO: A woman looks at a LG Electronics' organic light-emitting diode (OLED) TV, which is made with LG Display flat screens, at its store in Seoul, South Korea, April 26, 2016.
-S3 REUTERS/Kim Hong-Ji/File Photo
+S2 Christhian Rivera, 24, was arrested and charged on Monday with the murder of 20-year-old Tibbetts, who disappeared in July while out jogging.
+S3 A woman’s body has been found but has not yet been positively identified, authorities have said.
 
-S4 So he donned a pair of goggles, picked up a hammer, and smashed a liquid-crystal display screen to bits.
+S4 Law enforcement officials told reporters on Monday that Rivera was Mexican and in the country illegally.
+S5 However, his defense lawyer said in a court filing on Wednesday that Rivera had legal status.
 
-S5 The symbolism was impossible to miss: LCD panels, the company’s mainstay for years, were being relegated to the industrial dustbin.
-S6 The company’s future would depend on a newer technology, organic light-emitting diode, or OLED.
+S6 Trump, who has taken a tough stance on immigration and referred to some Mexican migrants as criminals and rapists in his 2016 election campaign, made a reference to the Tibbetts case at a rally in West Virginia on Tuesday.
 
-S7 “I’ve never seen him do such a thing,” said one company official who was present.
-S8 “His performance showed a grim determination to weather this crisis.”
+S7 “Should never have happened,” said Trump.
+S8 “The immigration laws are such a disgrace.”
 
-S9 Yet LG Display’s predicament was in many ways one of its own making.
-S10 Less than a year earlier, the company had showered employees with perks and bonuses as profits rolled in, driven by the company’s leadership in LCD screens for TVs, computer monitors and smartphones.
+S9 The political fallout from the killing could reverberate across Iowa, a swing state that has a hotly contested gubernatorial race and where Democrats see a chance at taking two of the 23 seats they need to win back from Republicans in November’s midterms to gain a majority in the House of Representatives.
 
-S11 But LG Display had misread the market: Chinese competitors were coming on strong, and by early this year prices for LCD screens were plummeting.
-S12 The fat profits of 2017 turned into big losses in 2018 - and the company abruptly announced in July that it would slash $2.7 billion in capital spending it had planned through 2020.
+S10 Iowa Republican Governor Kim Reynolds echoed Trump’s approach, blaming Tibbetts’ death on the nation’s immigration laws.
 
-S13 It did not reveal its total or previous targets but made about $6 billion in capital expenditures in 2017, according to Eikon data.
+S11 “We are angry that a broken immigration system allowed a predator like this to live in our community, and we will do all we can bring justice to Mollie’s killer,” she said in a Tuesday statement.
 
-S14 The company’s troubles stand as a stark example of the risks inherent in hotly competitive technology businesses that require massive capital investment.
+S12 Cristhian Rivera, 24, accused of killing University of Iowa student Mollie Tibbetts, is led from the courtroom after making his initial appearance on a charge of first-degree murder during at the Poweshiek County Courthouse in Montezuma, Iowa, U.S., August 22, 2018.
+S13 Jim Slosiarek/The Gazette/Pool via REUTERS
 
-S15 “It seems that LG Display made a major miscalculation on its LCD business, not accurately judging the timing to pull away when they could see China’s rapid catch-up,” said Lee Won-sik, an analyst at Shinyoung Securities.
+S14 But Republican members of Congress and congressional candidates in closely competitive Iowa districts were more guarded, perhaps wary of voter backlash if they politicized the case.
 
-S16 “We knew from last year LCD prices would go down but we did not expect this big and fast fall,” acknowledged one LG Display official, who, like others in this article, declined to be identified because he was not authorized to speak to the media.
-S17 “Customers had been asking for price cuts, but we didn’t act until it got too late.”
+S15 Republican lawmakers Rod Blum and David Young each issued statements expressing sympathy for the Tibbetts’ family but avoided any mention of illegal immigration.
 
-S18 PRICES IN FREE-FALL
+S16 Christopher Peters, a Republican mounting a long-shot challenge to Iowa Democratic Congressman Dave Loebsack, said on Facebook that politicizing Tibbetts’ murder “cheapens the death of this young woman.”
 
-S19 LG Display posted five straight years of strong profits after Han took the helm in 2012, riding a tide of LCD screen orders from Apple Inc (AAPL.O) and strong demand for both phone and TV screens from LG Electronics (066570.KS), which owns more than a third of the display-maker.
+S17 “Yes, our immigration system is broken, and Congress has failed to fix it,” Peters wrote.
+S18 “There is much we can and must do.
+S19 For now, though, we should mourn the loss of Mollie.”
 
-S20 LG Display also began to invest in OLED displays, which unlike LCD screens don’t require backlighting and can deliver more natural-looking colors.
-S21 OLED screens also consume less energy and can be bent and folded.
+S20 Tibbetts’ father, who made many public pleas for information about his daughter’s whereabouts, could not be reached for comment on Wednesday.
+S21 A man who picked up the phone at the home of Tibbetts’ mother in Iowa declined to comment.
 
-S22 But the technology is expensive, and LG Display was earning the vast majority of its revenue from LCDs.
-S23 Until its recent cutbacks, it was running eight LCD production lines in South Korea and another in China.
+S22 During his 2016 campaign, Trump spoke almost daily about the 2015 death of Kate Steinle, who was struck by a bullet that ricocheted off the ground after being accidentally fired by an illegal immigrant.
+S23 A jury last year cleared the immigrant of murder and manslaughter charges, and Trump railed against the decision.
 
-S24 While LG Display hummed along, Chinese companies, led by BOE Technology Group Co Ltd (000725.SZ), were pouring huge sums into LCD production.
+S24 Iowa voters might recoil at Tibbetts’ death being politicized so quickly, said Timothy Hagle, a political science professor at the University of Iowa.
 
-S25 LG Display Vice Chairman Han Sang-beom smashes a discarded 55-inch LCD panel with a hammer during an event at their factory in Paju, South Korea, April 26, 2018.
-S26 LG Display/Handout via REUTERS
+S25 “Kate Steinle was used nationally by Republicans as an example of a system that needs fixing,” Hagle said.
+S26 “That might happen again, but I’m not sure it will be handled the same way in Iowa.”
 
-S27 By January 2017, BOE had become the No.
-S28 1 supplier of LCDs larger than 9 inches, according to market tracker IHS Markit, taking 22.3 percent of unit shipments versus 21.6 percent for LG Display.
-S29 It was the first time a Chinese display maker had taken the top spot.
+S27 Mollie Tibbetts of Brooklyn, Iowa, a college student who went missing, poses for an undated photograph obtained by Reuters August 22, 2018.
+S28 Social Media via REUTERS.
 
-S30 By early 2018, prices for many types of LCDs were in free-fall.
-S31 Prices for 50-inch LCD television panels, for example, slid 32 percent in August versus the same month last year, according to IHS Markit.
+S29 Several residents of Brooklyn, Iowa, where Tibbetts lived, expressed sadness at how quickly her death had become a political talking point.
 
-S32 LG Display’s big South Korean rival, the display unit of Samsung Electronics (005930.KS), had begun pulling back from LCD years earlier, shutting down older LCD production lines in South Korea beginning in 2010, according to a Samsung Display official.
-S33 The company now has just two LCD factories in South Korea and one in China.
-
-S34 But LG Display was caught flat-footed and is now furiously slashing LCD capacity.
-S35 It has closed three LCD production lines since last year and abandoned plans for a new one.
-
-S36 The company in April also rolled out an “emergency management system,” with employees being told to use cheaper flights and cut back on group meals, company sources told Reuters.
-S37 Cash flow has become a concern: it was negative 838.2 billion won ($743.93 million) in the second quarter, according to Eikon data, and has been negative for three straight quarters.
-
-S38 Three company sources say the company is not planning layoffs for fear of losing talent to China, but some employees are frustrated with cuts in benefits.
-
-S39 “Executives are trying to keep the morale up, telling us media reports about a voluntary redundancy program are false,” a company source with knowledge of the matter said.
-
-S40 OLED A GAME CHANGER?
-
-S41 LG Display is now betting the house on OLED, and says it can fund $17.6 billion in OLED investments over the next three years.
-S42 It expects the newer technology to account for 40 percent of revenue by 2020, up from just 10 percent today.
-
-S43 As OLED becomes more prevalent, LG Display’s fortunes could turn, analysts say.
-
-S44 LG Display’s OLED panels have helped its sibling, LG Electronics, take the lead in high-end televisions.
-S45 Some analysts believe LG Display has been pressured to supply those panels cheaply, hurting its profitability, though the company denies that is the case.
-
-S46 But the OLED market promises to be tough.
-S47 Samsung boasts that it has been investing in OLED since 2005.
-S48 BOE is getting into OLED too.
-S49 LG Display has costly process for durable OLED TVs, but there are no better alternatives, said Ross Young, chief executive of research provider Display Supply Chain Consultants.
-
-S50 “LG Display’s current approach is the best solution for the market,” Young said.
-
-S51 Son Young-jun, LG Display’s vice president of public relations, said in a statement that the company is the only producer of large-size OLED displays and had “unmatched technological expertise” in OLED.
-S52 “The potential and outlook ahead is promising,” he said.
-
-S53 LG Display says its OLED division will turn a profit in the third quarter.
-S54 It also expects LCD prices to stabilize, enabling it to squeeze profits from the older technology until the newer one matures.
-
-S55 “Given OLED is our answer and solution to the crisis, there’s nothing else we can do other than tightening our belts and pushing for OLED,” a company official said.
-
-S56 Graphic: tmsnrt.rs/2OaszIW
+S30 “I wish Trump had not made this political,” said Janice, a 60-year-old waitress at the Classic Deli, who declined to give her last name.
+S31 “The family just wants to heal.
+S32 I have a farm with Mexican immigrants, and I never felt afraid.”
 

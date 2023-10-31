@@ -1,39 +1,33 @@
-URL https://www.reuters.com/article/stanford-marine-ma/uaes-stanford-marine-creditors-in-talks-about-sale-of-business-sources-idUSL5N1UW0F1
+URL https://www.reuters.com/article/us-crime-california/california-police-offer-50000-reward-in-long-unsolved-murders-idUSKBN1JB33F
 
-DATE/ AUTHOR 2018-08-06 09:47:09+00:00	AUTHORS: Tom Arnold, Min Read
+DATE/ AUTHOR 2018-06-15 23:41:09+00:00	AUTHORS: Dan Whitcomb, Min Read
 
-H UAE's Stanford Marine creditors in talks about sale of business -sources
+H California police offer $50,000 reward in long-unsolved murders
 
-S1 DUBAI/ABU DHABI, Aug 6 (Reuters) - Creditors of Stanford Marine Group (SMG), which has links to troubled private equity firm Abraaj, are in talks with three potential buyers, sources familiar with the matter say.
+S1 LOS ANGELES (Reuters) - California law enforcement officials on Friday offered a $50,000 reward to help crack the 1991 murders of an aspiring crime scene investigator and her family, hoping to capitalize on advances in DNA technology and publicity surrounding another high-profile case.
 
-S2 Banks are overseeing control of Dubai-based SMG after it failed to meet the terms of its debt obligations due to financial stress linked to a steep fall in chartering rates, the sources said.
+S2 In announcing a new push to solve the 27-year-old killings of state employee Marcy Jacobs, her husband and her daughter, California Attorney General Xavier Becerra and Sacramento Police Chief Daniel Hahn said they hoped new witnesses would come forward.
 
-S3 SMG, which operates offshore supply vessels that service the oil and gas industry, is 51 percent owned by a fund managed by Abraaj.
-S4 Dubai-based Abraaj filed for provisional liquidation in June after a row with investors over the use of their money in a $1 billion healthcare fund.
-S5 Abraaj denies any wrongdoing.
+S3 “Over the years, this case has been very challenging for multiple investigators.
+S4 Due to forensic advances, detectives working with the California Department of Justice have again begun actively working this case,” Hahn said in a statement.
 
-S6 With Abraaj’s future uncertain, SMG’s creditors are likely to remain in the driving seat for the time being, the sources said.
+S5 “We are hoping with the passage of time, and the offer of a $50,000 reward, anyone who has information regarding this incident will come forward to help solve this extremely violent crime,” Hahn said.
 
-S7 A source close to Abu Dhabi-based Waha Capital, which owns the remaining 49 percent share in SMG, said Waha was “maintaining a dialogue with the banks.”
+S6 DNA evidence was collected from the crime scene at the Jacobs’ Sacramento home, but police declined to say if investigators were employing techniques similar to those used in the separate “Golden State Killer” case to try to identify a culprit.
 
-S8 “SMG, like many other companies in the industry, is in discussion with its financiers with respect to its existing financing facilities,” SMG said in a statement to Reuters.
-S9 “SMG’s financiers and shareholders continue to be supportive of the business and its management and look forward to continued future success.”
+S7 Former police officer Joseph James DeAngelo, 72, was arrested in April and charged with 12 murders in the 1970s and 1980s attributed to the long-elusive Golden State Killer.
 
-S10 Abraaj’s joint provisional liquidators did not respond to a request for comment.
-S11 Waha also did not reply to a request for comment.
+S8 DeAngelo was identified as a suspect after detectives compared DNA from several crime scenes to online DNA-genealogy data, finding a partial match in a distant relative.
+S9 Some experts have raised ethical questions about use by law enforcement of consumer genealogy websites.
 
-S12 With SMG in negative equity, any sale of the company would leave banks with a haircut of at least 40 percent, two of the sources said.
+S10 Authorities do not believe there is a link between the Jacobs case and the Golden State Killer murders.
 
-S13 Reuters was unable to verify the names of the potential buyers.
-S14 One of the sources said London-based funds were among the interested buyers, while another source said they included private equity firms and “strategic” investors.
+S11 Marcy Jacobs, a 31-year-old California Department of Justice staff services employee, was attending night classes to become a crime scene investigator when she was found dead at her home on Jan. 14, 1991, along with her husband Michael, 33, and daughter Jenny, 9.
 
-S15 From 2013 Abraaj was considering listing SMG on the stock market or selling it but the firm’s fortunes changed with the collapse in oil prices in 2015, which led to a dramatic fall in chartering rates and a drying up of projects.
+S12 “Obviously there have been advancements in that (DNA) area, also relationships change over time,” public information officer Vance Chandler of the California Department of Justice said in reference to the Jacobs case, declining to elaborate.
 
-S16 SMG’s statement said it had demonstrated “resilient performance in the face of continued global downturn in the offshore marine industry with healthy demand for its fleet, leading to robust utilisation rates.”
+S13 Detectives have long believed that the murders were carried out by more than one suspect who came to the home seeking valuables stored in a safe there by a friend of Michael Jacobs.
 
-S17 The firm’s debt problems stem from a $325 million Islamic loan restructuring signed in June 2015 and provided by a group of banks including Noor Bank, Barwa Bank, Ajman Bank, United Arab Bank, Qatar Islamic Bank, and First Gulf Bank - now part of First Abu Dhabi Bank.
-
-S18 United States-based Fulcrum Capital, which has an office in Dubai, was among the companies that had looked at buying part of SMG’s bank debt, said two sources.
-S19 Fulcrum didn’t respond to a request for comment.
-S20 (Editing by Susan Fenton)
+S14 “We call on the public to help bring their killers to justice,” Becerra said in a statement.
+S15 “We owe the Jacobs family and all their loved ones nothing less.”
 

@@ -1,44 +1,57 @@
-URL https://www.reuters.com/article/us-space-brazil-usa/brazil-space-station-open-for-small-satellite-business-idUSKCN1LV007
+URL https://www.reuters.com/article/us-crime-knight/rap-mogul-marion-suge-knight-pleads-to-manslaughter-days-before-murder-trial-idUSKCN1M0367
 
-DATE/ AUTHOR 2018-09-15 00:30:49+00:00	AUTHORS: Anthony Boadle, Min Read
+DATE/ AUTHOR 2018-09-21 01:57:18+00:00	AUTHORS: Steve Gorman, Min Read
 
-H Brazil space station open for small satellite business
+H Rap mogul Marion 'Suge' Knight pleads to manslaughter days before murder trial
 
-S1 ALCANTARA SPACE CENTER, Brazil (Reuters) - Brazil is ready to launch small commercial rockets from its space base near the equator as soon as it agrees to safeguard U.S. technology that is dominant in the industry, the Brazilian Air Force officer managing the space program said on Friday.
+S1 LOS ANGELES (Reuters) - Rap mogul Marion “Suge” Knight pleaded no contest in a Los Angeles court on Thursday to a charge of manslaughter for a 2015 hit-and-run killing, accepting a 28-year prison sentence under a deal with prosecutors days before his murder trial was to begin.
 
-S2 A view of Alcantara space center during a media members visit in Alcantara, Maranhao State, Brazil September 14, 2018.
-S3 REUTERS/Adriano Machado
+S2 Marion "Suge" Knight (L), with attorney Albert DeBlanc, appears in Los Angeles Superior Court for a fatal 2015 hit-and-run, in Los Angeles, California, U.S., September 20, 2018.
+S3 Gary Coronado/Los Angeles Times/Pool via REUTERS
 
-S4 Brig.
-S5 Major Luiz Fernando Aguiar said Brazil wants to get a piece of the $300 billion-a-year space launch business by drawing U.S. companies interested in launching small satellites at a lower cost from the Alcantara base on its north coast.
+S4 In pleading no contest, equivalent to a guilty plea under California law, the 53-year-old co-founder of influential hip-hop label Death Row Records admitted using a “deadly and dangerous weapon” when he ran down two men with his pickup truck.
 
-S6 “The microsatellite market is most attractive today and we are interested in the 50 to 500-kilo niche,” Aguiar told Reuters at the base’s main launch pad.
-S7 “We are developing a rocket for microsatellites.
-S8 For that this tower is totally ready.”
+S5 One of the victims, 55-year-old Terry Carter, later died of his injuries.
+S6 The second man, Cle “Bone” Sloan, was left with a badly mangled left foot and head injuries.
 
-S9 Space cooperation between the United States and Brazil took a big step forward when they signed a Space Situational Awareness (SSA) agreement last month during a visit to Brasilia by U.S. Defense Secretary James Mattis.
+S7 The deadly confrontation occurred on Jan. 29, 2015, outside a hamburger stand in the Los Angeles suburb of Compton, following a heated argument on the set of a commercial for the film “Straight Outta Compton.”
 
-S10 The accord on sharing real-time tracking data on objects and debris in space is needed to develop a satellite launching business without the risk of collision.
+S8 Knight, who was out on bail in a robbery case at the time, fled the scene but was later arrested.
 
-S11 Boeing Co (BA.N) and Lockheed Martin Corp (LMT.N) in December visited the Alcantara space center, which is especially attractive to smaller firms, such as Tucson, Arizona-based rocket-maker Vector Launch Inc, because its equatorial location cuts fuel costs by a third allowing heavier payloads.
+S9 Had Knight been convicted of murder and attempted murder as originally charged, he would have faced a mandatory sentence of 25 years to life in prison.
+S10 Jury selection in the murder trial had been set to start on Monday in Los Angeles Superior Court.
 
-S12 But Brazil’s plan to become a new hub in the space industry will depend on concluding a technology safeguard agreement (TSA) with the United States to protect sensitive American space launch and satellite technology, Aguiar said.
-S13 Without it, no U.S. rocket can blast off from the South American country.
+S11 As part of the agreement to plead no contest to a single count of voluntary manslaughter, all other charges in the case were dropped.
+S12 Two separate criminal cases in which he was charged with robbery and making criminal threats will also be dismissed when he is formally sentenced on Oct. 4, prosecutors said.
 
-S14 A previous attempt at a U.S.-Brazilian space partnership was scuttled in 2003 when the TSA ran into resistance from the leftist government of former president Luiz Inacio Lula da Silva and was thwarted by Brazilian lawmakers.
+S13 Knight’s lawyers previously contended he accidentally struck the two men with his vehicle while trying to flee what he thought was an ambush attempt.
 
-S15 Aguiar said that agreement floundered because it allowed the U.S. unverified access to the Alcantara base that was not acceptable on sovereignty grounds.
-S16 A new Brazilian proposal under consideration by the U.S. government will be more “palatable” to the Brazilian Congress.
+S14 But prosecutors said Knight traded punches with Sloan through the window of his truck before putting the vehicle into reverse, knocking Sloan and Carter to the ground, then pulling forward to run over both men.
+S15 The incident was captured on videotape by the restaurant’s surveillance cameras.
 
-S17 The TSA is seen by Washington as opening opportunities for greater cooperation in aerospace and defense between the two countries.
+S16 Knight, sporting a graying beard and wearing an orange jail uniform and dark-rimmed glasses, said little during Thursday’s proceedings, mostly giving one- or two-word answers to a series of procedural questions from Superior Court Judge Ronald Coen.
 
-S18 The market for small satellite launches is expected to grow fast in the next few years and the U.S. space industry is keen to see new launch capacity in the world and a quick resolution to the negotiation of the TSA with Brazil.
+S17 But at one point when asked by the judge if he understood his plea could lead to deportation were he not a U.S. citizen, Knight joked: “Is ICE (Immigration and Customs Enforcement) gonna come and get me?”
 
-S19 “Demand for launch services has outstripped supply globally and another launch site is needed.
-S20 Because of its location, Alcantara offers advantages no other site in the world provides,” an industry source said.
+S18 Knight has long been known as much for his run-ins with the law and brushes with violence and as for his career as a rap music executive who promoted the likes of Snoop Dogg, Dr. Dre and Tupac Shakur in the 1990s.
 
-S21 Aguiar said the government will set up a company called Alada to market the launch site.
-S22 He said the Air Force has been in talks with Brazilian aerospace company Embraer SA on how to manage the business going forward.
+S19 Knight was sent to prison in October 1996 for violating probation on a previous assault case when he allegedly kicked a man during a scuffle at a Las Vegas hotel.
 
-S23 One possibility, Brazilian Air Force officials said, is a joint venture with Embraer’s satellite company Visiona, which is not part of the planned $4.75 billion tie-up between Boeing and Embraer’s commercial aviation arm.
+S20 That scuffle in September 1996 took place hours before Shakur was shot to death in a drive-by attack while riding in a car with Knight after a Mike Tyson boxing match.
+S21 Knight, who was at the wheel, was slightly wounded himself.
+
+S22 Months later, rap artist Christopher Wallace, known as Notorious B.I.G.
+S23 and signed to a rival record label, was shot to death in Los Angeles.
+
+S24 Knight, who was incarcerated at the time, was named by police a few years later as a suspect in the Wallace slaying but was never charged.
+S25 Both rap murders remain unsolved.
+
+S26 Marion "Suge" Knight (L), with attorney Albert DeBlanc, appears in Los Angeles Superior Court for a fatal 2015 hit-and-run, in Los Angeles, California, U.S., September 20, 2018.
+S27 Gary Coronado/Los Angeles Times/Pool via REUTERS
+
+S28 Knight was released from prison in April 2001.
+
+S29 The following year, a federal racketeering probe of Knight and his record label, stemming from allegations of murder, drug trafficking, money laundering and gun running, was closed with the company pleading guilty to misdemeanor tax charges.
+
+S30 In addition to being injured in the Shakur slaying, Knight was shot and wounded during a party at a Miami Beach nightspot in 2005 and in 2014 at a West Hollywood nightclub.
 

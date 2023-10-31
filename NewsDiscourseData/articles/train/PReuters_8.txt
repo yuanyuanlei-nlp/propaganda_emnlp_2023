@@ -1,34 +1,32 @@
-URL https://www.reuters.com/article/us-apple-salesforce/apple-salesforce-team-up-to-bring-siri-to-more-business-apps-idUSKCN1M41IM
+URL https://www.reuters.com/article/iraq-protests/iraqi-protesters-call-for-downfall-of-politicians-idUSL4N1UG4DA
 
-DATE/ AUTHOR 2018-09-26 22:03:21+00:00	AUTHORS: Stephen Nellis, Min Read
+DATE/ AUTHOR 2018-07-20 15:43:10+00:00	AUTHORS: Aref Mohammed, Min Read
 
-H Apple, Salesforce team up to bring Siri to more business apps
+H Iraqi protesters call for downfall of politicians
 
-S1 SAN FRANCISCO (Reuters) - Apple Inc (AAPL.O) and Salesforce.com Inc (CRM.N) are entering a partnership in which the iPhone maker will help Salesforce build the iPhone maker’s features such as its Siri voice assistant deeper into Salesforce’s own mobile apps, which are widely used in the sales and marketing industries.
+S1 BAGHDAD, July 20 (Reuters) - Thousands of Iraqis angry about poor services protested in Baghdad and the southern oil hub of Basra on Friday, calling for the downfall of political parties as they escalated demonstrations backed by the country’s most powerful clerics.
 
-S2 In exchange, Salesforce will make software tools so that the big businesses that use its back-end technology to power their own apps can build better products with features specific to iPhones and iPads.
+S2 In Basra, crumbling from years of neglect and under-investment, about 3,000 protesters gathered outside the headquarters of the provincial governorate.
 
-S3 Apple and Salesforce both have huge ecosystems of third-party software developers.
-S4 About 20 million developers make software for Apple devices, most of them focused on the consumer, while Salesforce has about 5 million developers who tap into its back-end systems to build business applications - a market that Apple has been expanding into through deals with International Business Machines (IBM.N), Cisco Systems (CSCO.O) and Accenture (ACN.N).
+S3 “The people want the downfall of political parties!” they chanted, echoing a slogan of the 2011 uprisings across the Arab world, as politicians struggled to form a new government following a May 12 election marred by allegations of corruption.
 
-S5 The partnership means that a salesperson can use Siri after a customer meeting to update that customer’s record with notes from the meeting, flag a customer service issue for a support team to follow-up on and many other data-entry tasks that can eat up valuable time.
+S4 Prime Minister Haider al-Abadi, who is seeking a second term, promised his government would fund electricity and water projects in Basra, where the colour of tap water is often brown because it contains dirt and mud.
 
-S6 The new Apple iPhone X are seen on display at the Apple Store in Manhattan, New York, U.S., September 21, 2018.
-S7 REUTERS/Shannon Stapleton
+S5 “The promises they make are all lies,” said Khaled Hassan, 42, a health worker in Basra.
+S6 “We will not keep quiet.”
 
-S8 “If you look at enterprise in general, voice has not been used as much as in consumer,” Apple CEO Tim Cook told Reuters in an interview.
-S9 “We’re going to be able to provide the sales rep instant access to things using your voice instead of clicks and going through different apps.
-S10 We’re changing the way people work, and that’s always been at the heart of what Apple is about - changing things for the better.”
+S7 On Thursday, powerful Shi’ite Muslim cleric Moqtada al-Sadr, whose bloc finished first in the election, said politicians should suspend efforts to form a coalition until the protesters’ demands are met.
 
-S11 In exchange, Salesforce is building tools so companies that tap into its back-end systems can make better use of Apple-specific features like Siri.
+S8 Sadr, whose militiamen staged violent uprisings against U.S. forces after the 2003 invasion, has in the past mobilised tens of thousands of people to press his demands.
 
-S12 At Salesforce’s annual customer conference this week, Marriott International will demonstrate a new system that uses Salesforce and Apple tools so that hotel guests can turn up the heat, order a sandwich or hail a ride using Siri with an Apple HomePod in their hotel room.
-S13 And at the next Marriot the guest stays at, Siri will remember the guest’s preferences - even their favorite sandwich, Salesforce CEO Marc Benioff told Reuters in an interview.
+S9 Grand Ayatollah Ali al-Sistani, the most influential cleric in Iraq, has also expressed solidarity with the demonstrators.
 
-S14 “I don’t think I’ve met with a single customer in the world that doesn’t want me to help them do more with Tim’s products,” Benioff said Cook and Apple in the interview.
+S10 Protests have swept cities in the south, Iraq’s Shi’ite heartland.
+S11 Three protesters have died and dozens of members of the security forces have been injured.
 
-S15 Salesforce also runs an educational platform called Trailhead, where it says one in four people who take courses in how to build business apps with Salesforce’s tools ends up getting a raise or promotion.
-S16 As part of the deal, Apple and Salesforce will add courses on how to develop iPhone and iPad applications.
+S12 Some of the protests have taken place at the entrance to major oilfields.
+S13 Officials say production has not been affected.
 
-S17 “These people are learning the tech skills that are elevating their careers,” Benioff said.
+S14 On Friday, about 300 people vented their anger in one of Baghdad’s main squares.
+S15 One held up a posters which read: “The revolution of the poor.”
 

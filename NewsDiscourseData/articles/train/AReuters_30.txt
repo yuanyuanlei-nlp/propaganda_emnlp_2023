@@ -1,38 +1,39 @@
-URL https://www.reuters.com/article/us-eu-amazon-com-antitrust/eu-regulators-want-to-know-if-merchants-hurt-by-amazon-copies-idUSKCN1M82IU
+URL https://www.reuters.com/article/us-slovakia-crime/slovak-authorities-identify-possible-witness-in-journalists-murder-idUSKCN1LX1RE
 
-DATE/ AUTHOR 2018-09-28 18:57:00+00:00	AUTHORS: Foo Yun Chee, Min Read
+DATE/ AUTHOR 2018-09-17 15:02:14+00:00	AUTHORS: Reuters Editorial, Min Read
 
-H EU regulators want to know if merchants hurt by Amazon copies
+H Slovak authorities identify possible witness in journalist's murder
 
-S1 BRUSSELS (Reuters) - EU antitrust regulators are asking retailers and manufacturers whether Amazon’s (AMZN.O) sales of own brand products similar to theirs have harmed their business, a move which could lead to a formal case and possibly fines against the U.S. tech giant.
+S1 BRATISLAVA (Reuters) - Slovak authorities have identified a possible witness in the murder of Slovak journalist Jan Kuciak, whose killing last February led mass protests that forced the government to resign, a state prosecutor said on Monday.
 
-S2 FILE PHOTO: Workers collect customer orders during Black Friday deals week at an Amazon fulfilment centre in Hemel Hempstead, Britain November 25, 2015.
-S3 REUTERS/Neil Hall/File Photo
+S2 FILE PHOTO: Candles are seen in front of the Government of the Slovak Republic's building during march in honour of murdered Slovak investigative reporter Jan Kuciak and his girlfriend Martina Kusnirova in Bratislava, Slovakia, March 2, 2018.
+S3 REUTERS/Radovan Stoklasa
 
-S4 European Competition Commissioner Margrethe Vestager said last week she was looking into whether the world’s largest online retailer was using merchants’ data illegally.
+S4 It was the first development in the case in the six months since the murder.
 
-S5 The European Commission’s focus is on Amazon’s dual function, as a company hosting merchants on its site and as a rival to these same retailers via its own products, made or improved based on the retailers’ data.
+S5 “This person may have been present at or close to the crime scene around the time the crime was committed and may have information about the crime,” the prosecutor overseeing the case told a news conference.
 
-S6 In a questionnaire sent to retailers, the Commission asked whether Amazon’s own brand products launched in the past five years were identical or very similar to rival products offered on its platform.
+S6 He declined to answer questions on whether that person was a suspect or just a witness.
 
-S7 Merchants were asked how Amazon’s products have affected their business, their investment, marketing, pricing, sales strategy and business decisions, and whether the number of sellers increased or decreased following Amazon’s entry.
+S7 Kuciak, who had written about political corruption in Slovakia, was found shot dead along with his fiancee Martina Kusnirova at their home outside Bratislava in February.
+S8 They were both 27.
 
-S8 Regulators also wanted to know if Amazon had contacted retailers or their suppliers before launching new products.
-S9 Merchants were asked to provide documents such as exchanges with Amazon or their suppliers and screenshots of websites to prove their claims.
+S9 The murder - which police have called a professional hit - raised fears over media freedom in ex-communist Eastern Europe, and led to mass protests across the nation that forced the departure of previous police chief Tibor Gaspar as well as Prime Minister Robert Fico and interior minister Robert Kalinak.
 
-S10 Retailers were given until Oct. 9 to reply to the 16-page questionnaire.
+S10 The cabinet was reshuffled with Fico’s deputy Peter Pellegrini taking over as prime minister but the three-party center-left coalition stayed in power.
 
-S11 One of the companies surveyed by the Commission posted the questionnaire online.
+S11 The prosecutor, who declined to give his name, said authorities had also whittled down possible motives to two.
 
-S12 Amazon declined to comment.
+S12 He held up a sketch of the possible witness depicting a white man with a beard and dark hair who appeared to be in his late 20s to early 30s.
+S13 He provided no other details.
 
-S13 Vestager has said she wants to check whether all the data gathered by Amazon gives it an edge.
+S14 “Despite initial mistakes in investigation, we have narrowed down possible motives from 30 to two,” the prosecutor said.
+S15 “I believe we will be successful in the end.”
 
-S14 “Is that giving you as the big guy, and in some member states a very big guy, an advantage that cannot be matched because you have this special access to data?,” she told reporters in Washington on Thursday.
+S16 The update on Monday came after more than 300 Slovak journalists and publishers last month criticized police for the lack of progress in the murder investigation and alleged corruption described by Kuciak.
 
-S15 The issue has two competition angles, said an antitrust lawyer who declined to be named because of the sensitivity of the issue.
+S17 “As no fundamental changes to the police or to the prosecutorial bodies have taken place, we have doubts about the independence of the investigation,” they said in a statement.
 
-S16 “Is there an abuse of dominance in the market and the way Amazon deals with sensitive data?” the lawyer said.
-
-S17 Vestager can levy fines of up to 10 percent of a company’s global turnover for breaching EU rules as well as force them to change their business practices.
+S18 Kuciak had covered Slovak businessmen mentioned in the Panama Papers and also probed fraud cases involving businessmen with Slovak political ties.
+S19 He had also been looking into suspected mafia links of Italians with businesses in Slovakia.
 
