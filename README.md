@@ -31,6 +31,6 @@ Identifying propaganda content at sentence-level and token-level.
 ## Citation
 If you are going to cite this paper, please use the form:
 
-Yuanyuan Lei, Ruihong Huang. 2023. Discourse Structures Guided Fine-grained Propaganda Identification. In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing, Singapore. Association for Computational Linguistics.
+Yuanyuan Lei and Ruihong Huang. 2023. Discourse Structures Guided Fine-grained Propaganda Identification. In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing, Singapore. Association for Computational Linguistics.
 
 <br/>
