@@ -1,36 +1,64 @@
-URL https://www.reuters.com/article/us-congorepublic-justice-centralafrica/hrw-decries-short-sentences-for-congo-peacekeepers-guilty-of-murder-idUSKBN1KS0CE
+URL https://www.reuters.com/article/us-climatechange-accord-weather-disaster/rich-and-poor-struggle-to-shoulder-losses-from-devastating-storms-idUSKBN1O3259
 
-DATE/ AUTHOR 2018-08-07 07:37:03+00:00	AUTHORS: Aaron Ross, Min Read
+DATE/ AUTHOR 2018-12-04 16:57:51+00:00	AUTHORS: Megan Rowling, Min Read
 
-H HRW decries short sentences for Congo peacekeepers guilty of murder
+H Rich and poor struggle to shoulder losses from devastating storms
 
-S1 DAKAR (Reuters) - Three Congo Republic peacekeepers were given sentences of just three years in jail for murdering civilians and are now already free, Human Rights Watch said on Tuesday, describing the sentences as inadequate and unlikely to discourage future abuse.
+S1 KATOWICE, Poland (Thomson Reuters Foundation) - The devastation caused by powerful storms is a growing threat to both poor and rich nations, propelling Caribbean islands to the top of a global index of countries most severely affected by weather disasters last year, researchers said on Tuesday.
 
-S2 FILE PHOTO: An African Union (AU) peacekeeping soldier holds a confiscated sword during a dispute between members of the local Christian community and ex-Seleka soldiers in Bangui January 22, 2014.
-S3 REUTERS/Siegfried Modola/File Photo
+S2 The U.S. territory of Puerto Rico was ranked as the hardest-hit and the island of Dominica came in third place after both were battered by Hurricane Maria last September, according to an annual climate risk index from Germanwatch, an environmental policy group.
 
-S4 A court in the Congolese capital Brazzaville sentenced each of the soldiers in April for the killings of 11 civilians committed in 2014 while the soldiers were serving in an African Union peacekeeping mission in Central African Republic.
-S5 HRW said it secured a copy of the written judgment only last month.
+S3 The United States ranked 12th in the 2017 index, with 389 fatalities and nearly $175 billion in losses from extreme weather.
 
-S6 The three men are now free, having already served most of their sentences, HRW said in a statement.
-S7 Although the court found the soldiers guilty of war crimes which can carry the death penalty under Congolese law, its judgment cited unspecified extenuating circumstances.
+S4 “Recent storms with intensity levels never seen before have had disastrous impacts,” said the index’s lead author David Eckstein.
 
-S8 “The authorities in the Republic of Congo missed an opportunity to provide justice for the murders of civilians and to show that no peacekeeper is above the law,” said Lewis Mudge, a senior researcher at HRW.
+S5 Such weather disasters are likely to worsen further in coming years, the United Nations’ humanitarian agency warned on Tuesday, creating significant new humanitarian needs.
 
-S9 “Giving the soldiers who committed murder little more than a slap on the wrist sent a damaging message to other peacekeepers that they risk little if they commit such crimes.”
+S6 Floods, storms and droughts all are expected to strengthen, the United Nations Office for the Coordination of Humanitarian Affairs (OCHA) said in its “Global Humanitarian Overview 2019” report.
 
-S10 Congo’s government spokesman did not respond to a request for comment.
-S11 The government of President Denis Sassou Nguesso, one of Africa’s most secretive with a history of repression at home, has previously rejected claims that it has ignored allegations of human rights abuses against its soldiers.
+S7 It cited World Bank data predicting 140 million people could be internally displaced by 2050 as a result of global warming.
 
-S12 Failure to hold peacekeepers accountable for crimes committed on foreign soil is a recurring complaint of rights activists.
-S13 The responsibility to prosecute falls on troop-contributing countries who are often unwilling or unable to press charges against their troops.
+S8 Among the countries being significantly hit by climate-linked extreme weather is the United States, whose President Donald Trump is one of the most prominent skeptics of man-made climate change, the agency said.
 
-S14 According to HRW, the Congolese peacekeepers killed an unarmed boy and arrested at least 12 other civilians in the Central African town of Boali in March 2014 after a peacekeeper was killed in a firefight with a local militia leader.
+S9 Hurricanes and storms in the United States and Caribbean caused more than $220 billion dollars worth of damage last year, representing nearly two thirds of global losses caused by natural disasters in 2017, OCHA said.
 
-S15 The bodies of the 12 people were found nearby in a mass grave in February 2016.
-S16 The remains of a 7-month-old baby who was also killed were never found, HRW said.
-S17 The Congolese court judgment referred only to 11 of the victims.
+S10 “Climate events are contributing to greater humanitarian problems than we have seen in the past,” said Jens Laerke, a spokesman for OCHA.
+S11 “This is something the world has not yet adapted fully to.”
 
-S18 Congo Republic’s hundreds of peacekeepers in Central African Republic later became part of a U.N. mission.
-S19 They were repatriated last year following multiple allegations of sexual abuse and exploitation.
+S12 As hurricanes and tropical cyclones intensify in strength, they are particularly hurting poor nations that are unprepared for the threat, researchers said on the sidelines of U.N. climate talks in Poland.
+
+S13 In the tiny island country of Dominica, Maria caused losses equal to more than twice its gross domestic product, damaging or destroying about 90 percent of housing.
+
+S14 Lloyd Pascal, a Dominican climate negotiator whose home has yet to be fully repaired after being hit by the storm, urged the U.N. talks to pay more attention to “weaker countries”.
+
+S15 Dominica, with 72,000 people, lacks the ability to prepare for the increasingly severe weather it is suffering, he said.
+
+S16 Even though storm warnings are received, the state does not have resources to evacuate people into shelters, he said, nor understand clearly how heavy rainfall will boost river levels.
+
+S17 “We are just not prepared to do that kind of work,” he told reporters.
+S18 “We are like sitting ducks.”
+
+S19 But rich countries, including the United States, also are seeing clearer climate impacts, and need to step up efforts to keep their people safe, Germanwatch said.
+
+S20 “Effective climate protection, as well as increasing resilience, is... in the self-interest of these countries,” Eckstein said.
+
+S21 The Germanwatch index highlighted other types of weather-related damage as well, from unusually heavy rainfall to landslides.
+
+S22 Sri Lanka, the second most-affected country in 2017, saw dramatic floods that year that killed 200 people and left hundreds of thousands homeless.
+
+S23 The U.N. climate negotiations should drum up more support for the poorest countries like Nepal, Vietnam, Sierra Leone and Madagascar to deal with rising losses linked to climate change, Germanwatch said.
+
+S24 All four of those countries figured in the index’s top 10 of nations most affected by weather disasters in 2017.
+
+S25 “They need predictable and reliable financial support for dealing with climate-induced loss and damage,” Eckstein said.
+
+S26 Five years ago, the U.N. climate talks set up a mechanism to better understand the damage that now will be unavoidable as a result of the 1 degree Celsius hike in global temperatures that has already occurred.
+
+S27 The mechanism also seeks to find ways to deal with the consequences as the world warms further.
+
+S28 But industrialized countries - which have historically emitted the most climate-changing emissions - have refused to pay compensation to those who are less to blame for global warming yet find themselves on the frontline of impacts.
+
+S29 Instead they are providing access to insurance.
+
+S30 At the Dec. 2-14 talks in Poland, arguments are expected over how progress on dealing with “loss and damage” should be assessed in 2023 when countries measure up their climate action against the goals of the Paris climate accord.
 
