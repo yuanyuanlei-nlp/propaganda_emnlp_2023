@@ -5,7 +5,7 @@
 **Paper:** Discourse Structures Guided Fine-grained Propaganda Identification<br/>
 **Accepted:** The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023)<br/>
 **Authors:** Yuanyuan Lei, Ruihong Huang<br/>
-**Paper Link:** https://arxiv.org/pdf/2310.18544.pdf
+**Paper Link:** https://aclanthology.org/2023.emnlp-main.23/
 
 <br/>
 
@@ -32,15 +32,6 @@ Identifying propaganda content at sentence-level and token-level.
 ## Citation
 If you are going to cite this paper, please use the form:
 
-Yuanyuan Lei and Ruihong Huang. 2023. Discourse Structures Guided Fine-grained Propaganda Identification. In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing, Singapore. Association for Computational Linguistics.
-
-@misc{lei2023discourse,
-      title={Discourse Structures Guided Fine-grained Propaganda Identification}, 
-      author={Yuanyuan Lei and Ruihong Huang},
-      year={2023},
-      eprint={2310.18544},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
-}
+Yuanyuan Lei and Ruihong Huang. 2023. Discourse Structures Guided Fine-grained Propaganda Identification. In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing, pages 331–342, Singapore. Association for Computational Linguistics.
 
 <br/>
