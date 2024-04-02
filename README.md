@@ -34,4 +34,24 @@ If you are going to cite this paper, please use the form:
 
 Yuanyuan Lei and Ruihong Huang. 2023. Discourse Structures Guided Fine-grained Propaganda Identification. In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing, pages 331–342, Singapore. Association for Computational Linguistics.
 
+```bibtex
+@inproceedings{lei-huang-2023-discourse,
+    title = "Discourse Structures Guided Fine-grained Propaganda Identification",
+    author = "Lei, Yuanyuan  and
+      Huang, Ruihong",
+    editor = "Bouamor, Houda  and
+      Pino, Juan  and
+      Bali, Kalika",
+    booktitle = "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing",
+    month = dec,
+    year = "2023",
+    address = "Singapore",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.emnlp-main.23",
+    doi = "10.18653/v1/2023.emnlp-main.23",
+    pages = "331--342",
+    abstract = "Propaganda is a form of deceptive narratives that instigate or mislead the public, usually with a political purpose. In this paper, we aim to identify propaganda in political news at two fine-grained levels: sentence-level and token-level. We observe that propaganda content is more likely to be embedded in sentences that attribute causality or assert contrast to nearby sentences, as well as seen in opinionated evaluation, speculation and discussions of future expectation. Hence, we propose to incorporate both local and global discourse structures for propaganda discovery and construct two teacher models for identifying PDTB-style discourse relations between nearby sentences and common discourse roles of sentences in a news article respectively. We further devise two methods to incorporate the two types of discourse structures for propaganda identification by either using teacher predicted probabilities as additional features or soliciting guidance in a knowledge distillation framework. Experiments on the benchmark dataset demonstrate that leveraging guidance from discourse structures can significantly improve both precision and recall of propaganda content identification.",
+}
+```
+
 <br/>
